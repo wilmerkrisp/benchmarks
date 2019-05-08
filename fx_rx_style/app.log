@@ -1,0 +1,847 @@
+[2019-03-28 16:20:26 INFO   ] Running... 
+2019-03-31 19:49:59,770 743  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-04-26 20:36:59,468 819  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-02 10:37:52,469 380  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-02 10:42:31,862 313  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-03 20:36:07,683 720  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-03 20:36:10,553 358  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-03 21:15:33,794 364  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-03 21:16:36,445 330  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-03 21:22:51,184 334  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-03 21:26:28,525 327  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-03 21:27:16,917 721  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-03 21:27:17,074 878  [main] INFO  life.expert.algo.research.base.App - Success(-1)
+2019-05-04 10:46:48,046 411  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 11:19:58,109 330  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 13:11:23,966 331  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 13:11:38,713 379  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 13:17:39,539 295  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 13:17:39,666 422  [main] INFO  life.expert.algo.research.base.App - Failure(java.lang.ArithmeticException: / by zero)
+2019-05-04 13:18:05,560 410  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 13:18:42,080 325  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 13:19:24,496 363  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 13:32:56,581 381  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 13:35:27,072 326  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 13:35:40,867 310  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 16:38:27,276 481  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 16:38:27,436 641  [main] INFO  life.expert.algo.research.base.App - Success(-1)
+2019-05-04 16:38:33,246 287  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 16:38:33,393 434  [main] INFO  life.expert.algo.research.base.App - Success(-1)
+2019-05-04 16:38:59,329 306  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 16:38:59,456 433  [main] INFO  life.expert.algo.research.base.App - Success(-1)
+2019-05-04 17:04:17,753 1099 [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 17:04:17,915 1261 [main] INFO  life.expert.algo.research.base.App - Opened successfully
+2019-05-04 17:04:29,571 358  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 17:04:29,716 503  [main] INFO  life.expert.algo.research.base.App - Opened successfully
+2019-05-04 18:20:53,283 347  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 18:47:06,889 346  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 18:47:27,536 415  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 18:49:32,478 599  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 18:54:41,673 1237 [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 18:55:37,606 706  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 18:58:38,749 377  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 21:49:43,216 778  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 21:50:22,531 309  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 21:50:52,689 331  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 21:51:09,769 315  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 22:23:53,831 362  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 22:26:11,164 719  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 22:26:45,184 412  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 22:26:45,342 570  [main] INFO  life.expert.algo.research.base.App - Success(1213)
+2019-05-04 22:27:22,697 341  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 22:27:22,848 492  [main] INFO  life.expert.algo.research.base.App - Success(1213)
+2019-05-04 22:29:09,280 293  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-04 22:29:09,445 458  [main] INFO  life.expert.algo.research.base.App - Some(1213)
+2019-05-05 10:14:53,561 536  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 10:14:53,731 706  [main] INFO  life.expert.algo.research.base.App - Some(1213)
+2019-05-05 10:15:15,818 312  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 10:15:15,975 469  [main] INFO  life.expert.algo.research.base.App - Some(1213)
+2019-05-05 10:26:57,873 328  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 10:26:58,030 485  [main] INFO  life.expert.algo.research.base.App - Success(1213)
+2019-05-05 10:28:53,627 304  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 10:28:53,776 453  [main] INFO  life.expert.algo.research.base.App - 1213
+2019-05-05 10:40:22,659 343  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 10:40:22,809 493  [main] INFO  life.expert.algo.research.base.App - Some(1)
+2019-05-05 10:43:58,262 316  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 10:43:58,425 479  [main] INFO  life.expert.algo.research.base.App - Some(1213)
+2019-05-05 10:44:14,923 685  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 10:44:15,093 855  [main] INFO  life.expert.algo.research.base.App - Success(1213)
+2019-05-05 11:00:42,227 578  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 11:04:50,505 304  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 11:05:26,151 290  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 11:05:39,440 681  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 11:58:48,472 332  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 12:07:44,354 390  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 12:32:55,227 424  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 12:33:12,012 341  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 12:34:13,878 374  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 12:34:55,091 348  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 12:45:44,072 295  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 12:45:44,201 424  [main] INFO  life.expert.algo.research.base.App - java.io.IOException:  cause 
+2019-05-05 12:48:26,203 318  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 12:48:26,338 453  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   logAtInfoFunction in (java.io.IOException:  cause ) out(-1)
+2019-05-05 12:49:24,172 691  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 12:49:24,312 831  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   logAtInfoFunction in (java.io.IOException:  cause ) out(-1)
+2019-05-05 12:49:24,315 834  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   logAtInfoFunction in (java.io.IOException:  cause ) out(-1)
+2019-05-05 12:49:24,315 834  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   logAtInfoFunction in (java.io.IOException:  cause ) out(-1)
+2019-05-05 12:49:24,315 834  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   logAtInfoFunction in (java.io.IOException:  cause ) out(-1)
+2019-05-05 12:49:24,316 835  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   logAtInfoFunction in (java.io.IOException:  cause ) out(-1)
+2019-05-05 12:49:24,316 835  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   logAtInfoFunction in (java.io.IOException:  cause ) out(-1)
+2019-05-05 14:33:54,139 325  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 14:33:54,283 469  [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   logAtErrorFunction in(java.io.IOException:  cause ) out(-1)
+2019-05-05 14:33:54,285 471  [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   logAtErrorFunction in(java.io.IOException:  cause ) out(-1)
+2019-05-05 14:33:54,286 472  [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   logAtErrorFunction in(java.io.IOException:  cause ) out(-1)
+2019-05-05 14:33:54,286 472  [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   logAtErrorFunction in(java.io.IOException:  cause ) out(-1)
+2019-05-05 14:33:54,287 473  [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   logAtErrorFunction in(java.io.IOException:  cause ) out(-1)
+2019-05-05 14:33:54,287 473  [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   logAtErrorFunction in(java.io.IOException:  cause ) out(-1)
+2019-05-05 16:42:45,647 370  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   method1 in(meth)
+2019-05-05 16:57:51,496 449  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   method1 in(meth)
+2019-05-05 17:01:51,789 312  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 17:02:55,989 722  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 17:03:39,549 339  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 17:03:39,685 475  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   method1 in(vova)
+2019-05-05 17:08:54,932 474  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 17:08:55,081 623  [main] WARN  life.expert.common.async.LogUtils - Thread[main,5,main]   empty argument
+2019-05-05 17:09:08,987 629  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 17:09:09,159 801  [main] WARN  life.expert.common.async.LogUtils - Thread[main,5,main]   empty argument
+2019-05-05 17:10:25,185 804  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 17:10:25,332 951  [main] WARN  life.expert.common.async.LogUtils - Thread[main,5,main]   empty argument
+2019-05-05 17:11:41,543 677  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 17:11:41,691 825  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   method1 in(a )
+2019-05-05 18:17:34,258 542  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:17:34,404 688  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   logAtInfoFunction in(java.io.IOException:  cause ) out(-1)
+2019-05-05 18:17:34,408 692  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   logAtInfoFunction in(java.io.IOException:  cause ) out(-1)
+2019-05-05 18:17:34,408 692  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   logAtInfoFunction in(java.io.IOException:  cause ) out(-1)
+2019-05-05 18:17:34,409 693  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   logAtInfoFunction in(java.io.IOException:  cause ) out(-1)
+2019-05-05 18:17:34,409 693  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   logAtInfoFunction in(java.io.IOException:  cause ) out(-1)
+2019-05-05 18:17:34,409 693  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   logAtInfoFunction in(java.io.IOException:  cause ) out(-1)
+2019-05-05 18:18:11,236 361  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:26:40,032 397  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:26:40,183 548  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:26:40,193 558  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    try  in(Success(otvet+a ))
+2019-05-05 18:27:20,477 453  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:27:20,625 601  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:27:20,632 608  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    try  in(Success(otvet+a ))
+2019-05-05 18:27:59,960 907  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:28:00,132 1079 [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:28:00,142 1089 [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    try  in(Failure(java.lang.RuntimeException:  cause ))
+2019-05-05 18:28:00,147 1094 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   logAtInfoFunction in(java.lang.RuntimeException:  cause ) out()
+2019-05-05 18:28:37,888 467  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:28:38,063 642  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:28:38,070 649  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    try  in(Failure(java.lang.RuntimeException:  cause ))
+2019-05-05 18:28:38,083 662  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   logAtInfoFunction in(java.lang.RuntimeException:  cause ) out(ERR_)
+2019-05-05 18:29:47,451 370  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:29:47,603 522  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:29:47,607 526  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    try  in(Failure(java.lang.RuntimeException:  cause ))
+2019-05-05 18:29:47,609 528  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   logAtInfoFunction in(java.lang.RuntimeException:  cause ) out(ERR_)
+2019-05-05 18:30:28,046 363  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:30:28,195 512  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:30:28,199 516  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Failure(java.lang.RuntimeException:  cause ))
+2019-05-05 18:30:28,201 518  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   logAtInfoFunction in(java.lang.RuntimeException:  cause ) out(ERR_)
+2019-05-05 18:30:28,201 518  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Some(ERR_))
+2019-05-05 18:31:06,878 349  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:31:07,027 498  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:31:07,035 506  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Success(otvet+a ))
+2019-05-05 18:31:07,036 507  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Some(otvet+a ))
+2019-05-05 18:31:38,228 470  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:31:38,387 629  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:31:38,399 641  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Success(otvet+a ))
+2019-05-05 18:31:38,402 644  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(otvet+a )
+2019-05-05 18:31:56,007 700  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:31:56,156 849  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:31:56,165 858  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Success(otvet+a ))
+2019-05-05 18:31:56,166 859  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after end  in(otvet+a )
+2019-05-05 18:32:16,342 726  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:32:16,496 880  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:32:16,508 892  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Success(otvet+a ))
+2019-05-05 18:32:16,509 893  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after end  in(otvet+a )
+2019-05-05 18:35:53,958 378  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:35:54,108 528  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:35:54,117 537  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Success(otvet+a ))
+2019-05-05 18:35:54,119 539  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after end  in(otvet+a )
+2019-05-05 18:36:20,797 355  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:36:20,939 497  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:36:20,944 502  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Failure(java.lang.RuntimeException:  cause ))
+2019-05-05 18:36:20,945 503  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   ERR_ in({})
+java.lang.RuntimeException:  cause 
+	at life.expert.algo.research.base.App.method1_(App.java:241)
+	at io.vavr.CheckedFunction1.lambda$null$959ed135$2(CheckedFunction1.java:126)
+	at io.vavr.control.Try.of(Try.java:75)
+	at io.vavr.CheckedFunction1.lambda$liftTry$f56c42c8$1(CheckedFunction1.java:126)
+	at io.vavr.control.Option.map(Option.java:392)
+	at life.expert.algo.research.base.App.method1(App.java:229)
+	at life.expert.algo.research.base.App.main(App.java:197)
+2019-05-05 18:51:11,877 775  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:51:12,055 953  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:51:12,061 959  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Failure(java.lang.RuntimeException:  cause ))
+2019-05-05 18:51:12,063 961  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   ERR_ in({})
+java.lang.RuntimeException:  cause 
+	at life.expert.algo.research.base.App.method1_(App.java:242)
+	at io.vavr.CheckedFunction1.lambda$null$959ed135$2(CheckedFunction1.java:126)
+	at io.vavr.control.Try.of(Try.java:75)
+	at io.vavr.CheckedFunction1.lambda$liftTry$f56c42c8$1(CheckedFunction1.java:126)
+	at io.vavr.control.Option.map(Option.java:392)
+	at life.expert.algo.research.base.App.method1(App.java:229)
+	at life.expert.algo.research.base.App.main(App.java:197)
+2019-05-05 18:53:53,755 325  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:53:53,899 469  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:53:53,904 474  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Failure(java.lang.RuntimeException:  cause ))
+2019-05-05 18:53:53,905 475  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   ERR_ in({})
+java.lang.RuntimeException:  cause 
+	at life.expert.algo.research.base.App.method1_(App.java:242)
+	at io.vavr.CheckedFunction1.lambda$null$959ed135$2(CheckedFunction1.java:126)
+	at io.vavr.control.Try.of(Try.java:75)
+	at io.vavr.CheckedFunction1.lambda$liftTry$f56c42c8$1(CheckedFunction1.java:126)
+	at io.vavr.control.Option.map(Option.java:392)
+	at life.expert.algo.research.base.App.method1(App.java:229)
+	at life.expert.algo.research.base.App.main(App.java:197)
+2019-05-05 18:54:10,940 357  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:54:11,094 511  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:54:11,105 522  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Success(otvet+a ))
+2019-05-05 18:54:11,108 525  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after end  in(otvet+a )
+2019-05-05 18:55:03,268 324  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:55:03,416 472  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:55:03,422 478  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Failure(java.lang.RuntimeException:  cause ))
+2019-05-05 18:55:03,424 480  [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   logAtErrorFunction in(java.lang.RuntimeException:  cause ) out(ERR_)
+2019-05-05 18:55:49,410 555  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:55:49,554 699  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:55:49,559 704  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Failure(java.lang.RuntimeException:  cause ))
+2019-05-05 18:57:34,741 389  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:57:34,894 542  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:57:34,898 546  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Failure(java.lang.RuntimeException:  cause ))
+2019-05-05 18:57:34,899 547  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after end  in(NONE)
+2019-05-05 18:59:28,584 488  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 18:59:28,755 659  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 18:59:28,758 662  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Failure(java.lang.RuntimeException:  cause ))
+2019-05-05 19:00:05,671 352  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 19:00:05,828 509  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 19:00:05,834 515  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Failure(java.lang.RuntimeException:  cause ))
+2019-05-05 19:00:17,013 391  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 19:00:17,193 571  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 19:00:17,209 587  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Success(otvet+a ))
+2019-05-05 19:00:17,214 592  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]    after end  in(otvet+a )
+2019-05-05 19:02:34,306 299  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 19:02:34,457 450  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 19:02:34,465 458  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Success(otvet+a ))
+2019-05-05 19:02:34,467 460  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]    after end  in(otvet+a )
+2019-05-05 19:02:42,957 333  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 19:02:43,103 479  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 19:02:43,107 483  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]    after try  in(Failure(java.lang.RuntimeException:  cause ))
+2019-05-05 19:02:43,110 486  [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   logAtErrorFunction in(java.lang.RuntimeException:  cause ) out(ERR_)
+2019-05-05 19:03:30,157 305  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 19:03:30,304 452  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 19:03:30,310 458  [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   logAtErrorFunction in(java.lang.RuntimeException:  cause ) out(App.method1)
+2019-05-05 19:03:44,776 304  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 19:03:44,922 450  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a )
+2019-05-05 19:03:44,934 462  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]    after end  in(otvet+a )
+2019-05-05 19:03:57,470 622  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 19:03:57,636 788  [main] WARN  life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1(empty argument)
+2019-05-05 19:04:22,086 313  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 19:04:22,232 459  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(d)
+2019-05-05 19:04:22,238 465  [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   logAtErrorFunction in(java.lang.RuntimeException:  cause ) out(App.method1)
+2019-05-05 19:08:30,369 780  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 19:08:30,550 961  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(d)
+2019-05-05 19:45:20,463 659  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 19:45:20,631 827  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(d)
+2019-05-05 19:45:32,778 328  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 19:45:32,926 476  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(d)
+2019-05-05 19:45:32,932 482  [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   logAtErrorConsumer in({})
+java.lang.RuntimeException:  cause 
+	at life.expert.algo.research.base.App.method1_(App.java:238)
+	at io.vavr.CheckedFunction1.lambda$null$959ed135$2(CheckedFunction1.java:126)
+	at io.vavr.control.Try.of(Try.java:75)
+	at io.vavr.CheckedFunction1.lambda$liftTry$f56c42c8$1(CheckedFunction1.java:126)
+	at io.vavr.control.Option.map(Option.java:392)
+	at life.expert.algo.research.base.App.method1(App.java:228)
+	at life.expert.algo.research.base.App.main(App.java:197)
+2019-05-05 19:46:34,253 415  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 19:46:34,404 566  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(d)
+2019-05-05 19:46:34,410 572  [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   logAtErrorConsumer in({})
+java.lang.RuntimeException:  cause 
+	at life.expert.algo.research.base.App.method1_(App.java:239)
+	at io.vavr.CheckedFunction1.lambda$null$959ed135$2(CheckedFunction1.java:126)
+	at io.vavr.control.Try.of(Try.java:75)
+	at io.vavr.CheckedFunction1.lambda$liftTry$f56c42c8$1(CheckedFunction1.java:126)
+	at io.vavr.control.Option.map(Option.java:392)
+	at life.expert.algo.research.base.App.method1(App.java:229)
+	at life.expert.algo.research.base.App.main(App.java:197)
+2019-05-05 19:46:34,422 584  [main] INFO  life.expert.algo.research.base.App - END MESSAGE
+2019-05-05 19:47:46,557 367  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 19:47:46,704 514  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(d)
+2019-05-05 19:47:46,709 519  [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   logAtErrorConsumer in({})
+java.lang.RuntimeException:  cause 
+	at life.expert.algo.research.base.App.method1_(App.java:239)
+	at io.vavr.CheckedFunction1.lambda$null$959ed135$2(CheckedFunction1.java:126)
+	at io.vavr.control.Try.of(Try.java:75)
+	at io.vavr.CheckedFunction1.lambda$liftTry$f56c42c8$1(CheckedFunction1.java:126)
+	at io.vavr.control.Option.map(Option.java:392)
+	at life.expert.algo.research.base.App.method1(App.java:229)
+	at life.expert.algo.research.base.App.main(App.java:197)
+2019-05-05 19:47:46,720 530  [main] INFO  life.expert.algo.research.base.App - END MESSAGE
+2019-05-05 19:49:13,247 328  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 19:49:13,394 475  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(d)
+2019-05-05 19:49:13,399 480  [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   meth1 in({})
+java.lang.RuntimeException:  cause 
+	at life.expert.algo.research.base.App.method1_(App.java:239)
+	at io.vavr.CheckedFunction1.lambda$null$959ed135$2(CheckedFunction1.java:126)
+	at io.vavr.control.Try.of(Try.java:75)
+	at io.vavr.CheckedFunction1.lambda$liftTry$f56c42c8$1(CheckedFunction1.java:126)
+	at io.vavr.control.Option.map(Option.java:392)
+	at life.expert.algo.research.base.App.method1(App.java:229)
+	at life.expert.algo.research.base.App.main(App.java:197)
+2019-05-05 19:49:13,411 492  [main] INFO  life.expert.algo.research.base.App - END MESSAGE
+2019-05-05 19:55:47,498 1483 [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 19:55:47,765 1750 [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(d)
+2019-05-05 19:55:47,775 1760 [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   meth1 in({})
+java.lang.RuntimeException:  cause 
+	at life.expert.algo.research.base.App.method1_(App.java:239)
+	at io.vavr.CheckedFunction1.lambda$null$959ed135$2(CheckedFunction1.java:126)
+	at io.vavr.control.Try.of(Try.java:75)
+	at io.vavr.CheckedFunction1.lambda$liftTry$f56c42c8$1(CheckedFunction1.java:126)
+	at io.vavr.control.Option.map(Option.java:392)
+	at life.expert.algo.research.base.App.method1(App.java:229)
+	at life.expert.algo.research.base.App.main(App.java:197)
+2019-05-05 19:55:47,794 1779 [main] INFO  life.expert.algo.research.base.App - END MESSAGE
+2019-05-06 12:10:38,832 390  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-06 12:10:39,077 635  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 12:10:39,162 720  [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   GENERATE out(a1) delay(1)
+2019-05-06 12:10:39,169 727  [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   GENERATE out(a5) delay(1)
+2019-05-06 12:10:39,166 724  [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   GENERATE out(a3) delay(1)
+2019-05-06 12:10:39,165 723  [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   GENERATE out(a2) delay(1)
+2019-05-06 12:10:39,167 725  [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   GENERATE out(a4) delay(1)
+2019-05-06 12:10:39,170 728  [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   GENERATE out(a6) delay(1)
+2019-05-06 12:10:39,170 728  [elastic-8] INFO  life.expert.common.async.LogUtils - Thread[elastic-8,5,main]   GENERATE out(a7) delay(1)
+2019-05-06 12:10:39,171 729  [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   GENERATE out(a8) delay(1)
+2019-05-06 12:10:39,172 730  [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   GENERATE out(a9) delay(1)
+2019-05-06 12:10:39,172 730  [main] INFO  life.expert.algo.research.base.App - END MESSAGE
+2019-05-06 12:10:39,173 731  [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   GENERATE out(a10) delay(1)
+2019-05-06 12:13:31,235 803  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-06 12:13:31,651 1219 [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 12:13:31,845 1413 [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   GENERATE out(a1) delay(1)
+2019-05-06 12:13:31,852 1420 [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   GENERATE out(a2) delay(1)
+2019-05-06 12:13:31,853 1421 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   GENERATE out(a3) delay(1)
+2019-05-06 12:13:31,855 1423 [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   GENERATE out(a4) delay(1)
+2019-05-06 12:13:31,856 1424 [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   GENERATE out(a5) delay(1)
+2019-05-06 12:13:31,857 1425 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   GENERATE out(a6) delay(1)
+2019-05-06 12:13:31,858 1426 [elastic-8] INFO  life.expert.common.async.LogUtils - Thread[elastic-8,5,main]   GENERATE out(a7) delay(1)
+2019-05-06 12:13:31,858 1426 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   GENERATE out(a8) delay(1)
+2019-05-06 12:13:31,859 1427 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   GENERATE out(a9) delay(1)
+2019-05-06 12:13:31,859 1427 [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   GENERATE out(a10) delay(1)
+2019-05-06 12:13:32,860 2428 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   NEXT in(a3)
+2019-05-06 12:13:32,867 2435 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a6)
+2019-05-06 12:13:32,868 2436 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a7)
+2019-05-06 12:13:32,868 2436 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a8)
+2019-05-06 12:13:32,868 2436 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a9)
+2019-05-06 12:13:32,868 2436 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a10)
+2019-05-06 12:13:32,868 2436 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a1)
+2019-05-06 12:13:32,869 2437 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(!!!BIGERROR)
+2019-05-06 12:13:32,869 2437 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a4)
+2019-05-06 12:13:32,869 2437 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a5)
+2019-05-06 12:13:32,869 2437 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   COMPLETE
+2019-05-06 12:13:38,862 8430 [main] INFO  life.expert.algo.research.base.App - END MESSAGE
+2019-05-06 12:16:29,013 325  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-06 12:16:29,241 553  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 12:16:29,320 632  [parallel-2] INFO  life.expert.common.async.LogUtils - Thread[parallel-2,5,main]   TASKK in(a2) delay(4)
+2019-05-06 12:16:29,320 632  [parallel-3] INFO  life.expert.common.async.LogUtils - Thread[parallel-3,5,main]   TASKK in(a3) delay(4)
+2019-05-06 12:16:29,320 632  [parallel-4] INFO  life.expert.common.async.LogUtils - Thread[parallel-4,5,main]   TASKK in(a4) delay(4)
+2019-05-06 12:16:29,320 632  [parallel-1] INFO  life.expert.common.async.LogUtils - Thread[parallel-1,5,main]   TASKK in(a1) delay(4)
+2019-05-06 12:16:33,329 4641 [parallel-2] INFO  life.expert.common.async.LogUtils - Thread[parallel-2,5,main]   CONTINUEE in(java.lang.IllegalArgumentException: delaySupplierWithError) in(a2)
+2019-05-06 12:16:33,329 4641 [parallel-2] INFO  life.expert.common.async.LogUtils - Thread[parallel-2,5,main]   TASKK in(a6) delay(4)
+2019-05-06 12:16:33,330 4642 [parallel-1] INFO  life.expert.common.async.LogUtils - Thread[parallel-1,5,main]   NEXT in(a1)
+2019-05-06 12:16:33,331 4643 [parallel-1] INFO  life.expert.common.async.LogUtils - Thread[parallel-1,5,main]   NEXT in(a3)
+2019-05-06 12:16:33,331 4643 [parallel-1] INFO  life.expert.common.async.LogUtils - Thread[parallel-1,5,main]   NEXT in(a4)
+2019-05-06 12:16:33,331 4643 [parallel-1] INFO  life.expert.common.async.LogUtils - Thread[parallel-1,5,main]   TASKK in(a5) delay(4)
+2019-05-06 12:16:33,330 4642 [parallel-3] INFO  life.expert.common.async.LogUtils - Thread[parallel-3,5,main]   TASKK in(a7) delay(4)
+2019-05-06 12:16:33,330 4642 [parallel-4] INFO  life.expert.common.async.LogUtils - Thread[parallel-4,5,main]   TASKK in(a8) delay(4)
+2019-05-06 12:16:36,328 7640 [main] INFO  life.expert.algo.research.base.App - END MESSAGE
+2019-05-06 12:18:09,979 317  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-06 12:18:10,207 545  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 12:18:10,228 566  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   TASKK in(a1) delay(4)
+2019-05-06 12:18:14,237 4575 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   NEXT in(a1)
+2019-05-06 12:18:14,237 4575 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   TASKK in(a2) delay(4)
+2019-05-06 12:18:18,248 8586 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   CONTINUEE in(java.lang.IllegalArgumentException: delaySupplierWithError) in(a2)
+2019-05-06 12:18:18,248 8586 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   TASKK in(a3) delay(4)
+2019-05-06 12:18:22,253 12591 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   NEXT in(a3)
+2019-05-06 12:18:22,253 12591 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   TASKK in(a4) delay(4)
+2019-05-06 12:18:26,258 16596 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   NEXT in(a4)
+2019-05-06 12:18:26,259 16597 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   TASKK in(a5) delay(4)
+2019-05-06 12:18:30,263 20601 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   NEXT in(a5)
+2019-05-06 12:18:30,264 20602 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   TASKK in(a6) delay(4)
+2019-05-06 12:18:34,269 24607 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   NEXT in(a6)
+2019-05-06 12:18:34,269 24607 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   TASKK in(a7) delay(4)
+2019-05-06 12:18:38,272 28610 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   NEXT in(a7)
+2019-05-06 12:18:38,273 28611 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   TASKK in(a8) delay(4)
+2019-05-06 12:18:42,278 32616 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   NEXT in(a8)
+2019-05-06 12:18:42,279 32617 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   TASKK in(a9) delay(4)
+2019-05-06 12:18:46,280 36618 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   NEXT in(a9)
+2019-05-06 12:18:46,280 36618 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   TASKK in(a10) delay(4)
+2019-05-06 12:18:50,283 40621 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   NEXT in(a10)
+2019-05-06 12:18:50,284 40622 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   COMPLETE
+2019-05-06 12:18:57,285 47623 [main] INFO  life.expert.algo.research.base.App - END MESSAGE
+2019-05-06 12:20:32,614 870  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-06 12:20:32,912 1168 [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 12:20:33,049 1305 [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   GENERATE out(a1) delay(1)
+2019-05-06 12:20:33,057 1313 [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   GENERATE out(a2) delay(1)
+2019-05-06 12:20:33,058 1314 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   GENERATE out(a3) delay(1)
+2019-05-06 12:20:33,059 1315 [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   GENERATE out(a4) delay(1)
+2019-05-06 12:20:33,059 1315 [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   GENERATE out(a5) delay(1)
+2019-05-06 12:20:33,060 1316 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   GENERATE out(a6) delay(1)
+2019-05-06 12:20:33,060 1316 [elastic-8] INFO  life.expert.common.async.LogUtils - Thread[elastic-8,5,main]   GENERATE out(a7) delay(1)
+2019-05-06 12:20:33,061 1317 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   GENERATE out(a8) delay(1)
+2019-05-06 12:20:33,062 1318 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   GENERATE out(a9) delay(1)
+2019-05-06 12:20:33,062 1318 [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   GENERATE out(a10) delay(1)
+2019-05-06 12:20:34,063 2319 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a8)
+2019-05-06 12:20:34,071 2327 [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   ERROR in({})
+java.lang.IllegalArgumentException: delaySupplierWithError
+	at life.expert.common.async.LogUtils.lambda$delaySupplierWithError$59(LogUtils.java:2426)
+	at reactor.core.publisher.MonoSupplier.call(MonoSupplier.java:85)
+	at reactor.core.publisher.FluxSubscribeOnCallable$CallableSubscribeOnSubscription.run(FluxSubscribeOnCallable.java:225)
+	at reactor.core.scheduler.ElasticScheduler$DirectScheduleTask.run(ElasticScheduler.java:291)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:50)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:27)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2019-05-06 12:20:40,067 8323 [main] INFO  life.expert.algo.research.base.App - END MESSAGE
+2019-05-06 12:22:47,789 354  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-06 12:22:48,006 571  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 12:22:48,091 656  [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   GENERATE out(a8) delay(1)
+2019-05-06 12:22:48,092 657  [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   GENERATE out(a10) delay(1)
+2019-05-06 12:22:48,084 649  [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   GENERATE out(a1) delay(1)
+2019-05-06 12:22:48,090 655  [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   GENERATE out(a6) delay(1)
+2019-05-06 12:22:48,090 655  [elastic-8] INFO  life.expert.common.async.LogUtils - Thread[elastic-8,5,main]   GENERATE out(a7) delay(1)
+2019-05-06 12:22:48,088 653  [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   GENERATE out(a3) delay(1)
+2019-05-06 12:22:48,089 654  [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   GENERATE out(a4) delay(1)
+2019-05-06 12:22:48,091 656  [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   GENERATE out(a9) delay(1)
+2019-05-06 12:22:48,089 654  [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   GENERATE out(a5) delay(1)
+2019-05-06 12:22:48,087 652  [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   GENERATE out(a2) delay(1)
+2019-05-06 12:22:49,100 1665 [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   NEXT in(a1)
+2019-05-06 12:22:49,106 1671 [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   CONTINUEE in(java.lang.IllegalArgumentException: delaySupplierWithError) in(null)
+2019-05-06 12:22:49,106 1671 [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   NEXT in(a3)
+2019-05-06 12:22:49,107 1672 [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   NEXT in(a4)
+2019-05-06 12:22:49,107 1672 [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   NEXT in(a5)
+2019-05-06 12:22:49,107 1672 [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   NEXT in(a6)
+2019-05-06 12:22:49,107 1672 [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   NEXT in(a7)
+2019-05-06 12:22:49,107 1672 [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   NEXT in(a8)
+2019-05-06 12:22:49,108 1673 [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   NEXT in(a9)
+2019-05-06 12:22:49,108 1673 [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   NEXT in(a10)
+2019-05-06 12:22:49,108 1673 [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   COMPLETE
+2019-05-06 12:22:55,097 7662 [main] INFO  life.expert.algo.research.base.App - END MESSAGE
+2019-05-06 12:24:35,455 632  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-06 12:24:35,675 852  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 12:24:35,762 939  [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   GENERATE out(a1) delay(1)
+2019-05-06 12:24:35,766 943  [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   GENERATE out(a2) delay(1)
+2019-05-06 12:24:35,767 944  [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   GENERATE out(a3) delay(1)
+2019-05-06 12:24:35,768 945  [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   GENERATE out(a4) delay(1)
+2019-05-06 12:24:35,771 948  [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   GENERATE out(a5) delay(1)
+2019-05-06 12:24:35,772 949  [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   GENERATE out(a6) delay(1)
+2019-05-06 12:24:35,772 949  [elastic-8] INFO  life.expert.common.async.LogUtils - Thread[elastic-8,5,main]   GENERATE out(a7) delay(1)
+2019-05-06 12:24:35,773 950  [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   GENERATE out(a8) delay(1)
+2019-05-06 12:24:35,773 950  [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   GENERATE out(a9) delay(1)
+2019-05-06 12:24:35,773 950  [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   GENERATE out(a10) delay(1)
+2019-05-06 12:24:36,775 1952 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   NEXT in(a3)
+2019-05-06 12:24:36,781 1958 [elastic-3] ERROR life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   CONTINUEE in(java.lang.IllegalArgumentException: delaySupplierWithError) in(null)
+2019-05-06 12:24:36,782 1959 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a8)
+2019-05-06 12:24:36,782 1959 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a9)
+2019-05-06 12:24:36,783 1960 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a1)
+2019-05-06 12:24:36,783 1960 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a4)
+2019-05-06 12:24:36,783 1960 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a5)
+2019-05-06 12:24:36,783 1960 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a6)
+2019-05-06 12:24:36,783 1960 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a7)
+2019-05-06 12:24:36,784 1961 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a10)
+2019-05-06 12:24:36,784 1961 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   COMPLETE
+2019-05-06 12:24:42,778 7955 [main] INFO  life.expert.algo.research.base.App - END MESSAGE
+2019-05-06 12:29:40,074 504  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-06 12:29:40,289 719  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 12:29:40,362 792  [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   GENERATE out(a1) delay(1)
+2019-05-06 12:29:40,366 796  [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   GENERATE out(a2) delay(1)
+2019-05-06 12:29:40,367 797  [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   GENERATE out(a3) delay(1)
+2019-05-06 12:29:40,367 797  [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   GENERATE out(a4) delay(1)
+2019-05-06 12:29:40,368 798  [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   GENERATE out(a5) delay(1)
+2019-05-06 12:29:40,368 798  [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   GENERATE out(a6) delay(1)
+2019-05-06 12:29:40,371 801  [elastic-8] INFO  life.expert.common.async.LogUtils - Thread[elastic-8,5,main]   GENERATE out(a7) delay(1)
+2019-05-06 12:29:40,371 801  [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   GENERATE out(a8) delay(1)
+2019-05-06 12:29:40,372 802  [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   GENERATE out(a9) delay(1)
+2019-05-06 12:29:40,372 802  [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   GENERATE out(a10) delay(1)
+2019-05-06 12:29:41,374 1804 [elastic-8] INFO  life.expert.common.async.LogUtils - Thread[elastic-8,5,main]   NEXT in(a7)
+2019-05-06 12:29:41,382 1812 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a1)
+2019-05-06 12:29:41,383 1813 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a3)
+2019-05-06 12:29:41,383 1813 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a4)
+2019-05-06 12:29:41,383 1813 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a5)
+2019-05-06 12:29:41,383 1813 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a6)
+2019-05-06 12:29:41,384 1814 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a8)
+2019-05-06 12:29:41,384 1814 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a9)
+2019-05-06 12:29:41,384 1814 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a10)
+2019-05-06 12:29:47,376 7806 [main] INFO  life.expert.algo.research.base.App - END MESSAGE
+2019-05-06 12:31:15,849 1005 [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-06 12:31:16,139 1295 [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 12:31:16,236 1392 [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   GENERATE out(a1) delay(1)
+2019-05-06 12:31:16,241 1397 [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   GENERATE out(a2) delay(1)
+2019-05-06 12:31:16,242 1398 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   GENERATE out(a3) delay(1)
+2019-05-06 12:31:16,244 1400 [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   GENERATE out(a4) delay(1)
+2019-05-06 12:31:16,245 1401 [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   GENERATE out(a5) delay(1)
+2019-05-06 12:31:16,248 1404 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   GENERATE out(a6) delay(1)
+2019-05-06 12:31:16,249 1405 [elastic-8] INFO  life.expert.common.async.LogUtils - Thread[elastic-8,5,main]   GENERATE out(a7) delay(1)
+2019-05-06 12:31:16,249 1405 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   GENERATE out(a8) delay(1)
+2019-05-06 12:31:16,249 1405 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   GENERATE out(a9) delay(1)
+2019-05-06 12:31:16,250 1406 [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   GENERATE out(a10) delay(1)
+2019-05-06 12:31:17,252 2408 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a8)
+2019-05-06 12:31:17,258 2414 [elastic-3] ERROR life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   ERRORR in(java.lang.IllegalArgumentException: delaySupplierWithError) out(MonoNever)
+2019-05-06 12:31:17,259 2415 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a9)
+2019-05-06 12:31:17,260 2416 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a4)
+2019-05-06 12:31:17,261 2417 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a5)
+2019-05-06 12:31:17,261 2417 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a6)
+2019-05-06 12:31:17,261 2417 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a7)
+2019-05-06 12:31:17,262 2418 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a10)
+2019-05-06 12:31:17,262 2418 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a1)
+2019-05-06 12:31:17,262 2418 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a3)
+2019-05-06 12:31:23,255 8411 [main] INFO  life.expert.algo.research.base.App - END MESSAGE
+2019-05-06 12:32:28,489 324  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-06 12:32:28,721 556  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 12:32:28,800 635  [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   GENERATE out(a2) delay(1)
+2019-05-06 12:32:28,804 639  [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   GENERATE out(a8) delay(1)
+2019-05-06 12:32:28,802 637  [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   GENERATE out(a5) delay(1)
+2019-05-06 12:32:28,801 636  [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   GENERATE out(a3) delay(1)
+2019-05-06 12:32:28,803 638  [elastic-8] INFO  life.expert.common.async.LogUtils - Thread[elastic-8,5,main]   GENERATE out(a7) delay(1)
+2019-05-06 12:32:28,797 632  [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   GENERATE out(a1) delay(1)
+2019-05-06 12:32:28,801 636  [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   GENERATE out(a4) delay(1)
+2019-05-06 12:32:28,802 637  [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   GENERATE out(a6) delay(1)
+2019-05-06 12:32:28,805 640  [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   GENERATE out(a9) delay(1)
+2019-05-06 12:32:28,805 640  [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   GENERATE out(a10) delay(1)
+2019-05-06 12:32:29,811 1646 [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   NEXT in(a5)
+2019-05-06 12:32:29,816 1651 [elastic-3] ERROR life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   ERRORR:a2 in(java.lang.IllegalArgumentException: delaySupplierWithError) out(MonoNever)
+2019-05-06 12:32:29,818 1653 [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   NEXT in(a1)
+2019-05-06 12:32:29,818 1653 [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   NEXT in(a4)
+2019-05-06 12:32:29,818 1653 [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   NEXT in(a8)
+2019-05-06 12:32:29,819 1654 [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   NEXT in(a9)
+2019-05-06 12:32:29,819 1654 [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   NEXT in(a10)
+2019-05-06 12:32:29,819 1654 [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   NEXT in(a3)
+2019-05-06 12:32:29,819 1654 [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   NEXT in(a6)
+2019-05-06 12:32:29,819 1654 [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   NEXT in(a7)
+2019-05-06 12:32:35,814 7649 [main] INFO  life.expert.algo.research.base.App - END MESSAGE
+2019-05-06 12:33:54,176 329  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-06 12:33:54,403 556  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 12:33:54,486 639  [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   GENERATE out(a1) delay(1)
+2019-05-06 12:33:54,490 643  [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   GENERATE out(a2) delay(1)
+2019-05-06 12:33:54,491 644  [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   GENERATE out(a3) delay(1)
+2019-05-06 12:33:54,493 646  [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   GENERATE out(a4) delay(1)
+2019-05-06 12:33:54,494 647  [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   GENERATE out(a5) delay(1)
+2019-05-06 12:33:54,496 649  [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   GENERATE out(a6) delay(1)
+2019-05-06 12:33:54,496 649  [elastic-8] INFO  life.expert.common.async.LogUtils - Thread[elastic-8,5,main]   GENERATE out(a7) delay(1)
+2019-05-06 12:33:54,497 650  [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   GENERATE out(a8) delay(1)
+2019-05-06 12:33:54,497 650  [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   GENERATE out(a9) delay(1)
+2019-05-06 12:33:54,497 650  [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   GENERATE out(a10) delay(1)
+2019-05-06 12:33:55,497 1650 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a8)
+2019-05-06 12:33:55,503 1656 [elastic-3] ERROR life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   CONTINUEE in(java.lang.IllegalArgumentException: delaySupplierWithError) in(null)
+2019-05-06 12:33:55,504 1657 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a5)
+2019-05-06 12:33:55,505 1658 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a6)
+2019-05-06 12:33:55,505 1658 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a7)
+2019-05-06 12:33:55,505 1658 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a9)
+2019-05-06 12:33:55,505 1658 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a10)
+2019-05-06 12:33:55,506 1659 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a1)
+2019-05-06 12:33:55,506 1659 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a3)
+2019-05-06 12:33:55,506 1659 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a4)
+2019-05-06 12:33:55,506 1659 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   COMPLETE
+2019-05-06 12:34:01,499 7652 [main] INFO  life.expert.algo.research.base.App - END MESSAGE
+2019-05-06 12:43:34,356 621  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-06 12:43:34,664 929  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 12:43:34,789 1054 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(Success(life.expert.common.async.LogUtils$$Lambda$74/0x00000008011ca440@ec2a007))
+2019-05-06 12:43:34,795 1060 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   NEXT in(Success(life.expert.common.async.LogUtils$$Lambda$74/0x00000008011ca440@3565a027))
+2019-05-06 12:43:34,796 1061 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   NEXT in(Success(life.expert.common.async.LogUtils$$Lambda$74/0x00000008011ca440@35a35317))
+2019-05-06 12:43:34,796 1061 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   NEXT in(Success(life.expert.common.async.LogUtils$$Lambda$74/0x00000008011ca440@49a17f5))
+2019-05-06 12:43:34,797 1062 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   NEXT in(Success(life.expert.common.async.LogUtils$$Lambda$74/0x00000008011ca440@4db6ba61))
+2019-05-06 12:43:34,797 1062 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   NEXT in(Success(life.expert.common.async.LogUtils$$Lambda$74/0x00000008011ca440@554a5f68))
+2019-05-06 12:43:34,797 1062 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   NEXT in(Success(life.expert.common.async.LogUtils$$Lambda$74/0x00000008011ca440@7a5e853d))
+2019-05-06 12:43:34,797 1062 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   NEXT in(Success(life.expert.common.async.LogUtils$$Lambda$74/0x00000008011ca440@2eaf103c))
+2019-05-06 12:43:34,797 1062 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   NEXT in(Success(life.expert.common.async.LogUtils$$Lambda$74/0x00000008011ca440@56b2d23a))
+2019-05-06 12:43:34,798 1063 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   NEXT in(Success(life.expert.common.async.LogUtils$$Lambda$74/0x00000008011ca440@5104669b))
+2019-05-06 12:43:34,798 1063 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   COMPLETE
+2019-05-06 12:43:41,772 8037 [main] INFO  life.expert.algo.research.base.App - END MESSAGE
+2019-05-06 12:45:31,960 404  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-06 12:45:32,203 647  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 12:45:32,330 774  [elastic-8] INFO  life.expert.common.async.LogUtils - Thread[elastic-8,5,main]   NEXT in(life.expert.common.async.LogUtils$$Lambda$83/0x00000008011e9440@19319e10)
+2019-05-06 12:45:32,338 782  [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   NEXT in(life.expert.common.async.LogUtils$$Lambda$83/0x00000008011e9440@374f2512)
+2019-05-06 12:45:32,338 782  [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   NEXT in(life.expert.common.async.LogUtils$$Lambda$83/0x00000008011e9440@3ce218cd)
+2019-05-06 12:45:32,338 782  [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   NEXT in(life.expert.common.async.LogUtils$$Lambda$83/0x00000008011e9440@12b9a591)
+2019-05-06 12:45:32,339 783  [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   NEXT in(life.expert.common.async.LogUtils$$Lambda$83/0x00000008011e9440@5a17f0c3)
+2019-05-06 12:45:32,339 783  [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   NEXT in(life.expert.common.async.LogUtils$$Lambda$83/0x00000008011e9440@56a78e59)
+2019-05-06 12:45:32,339 783  [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   NEXT in(life.expert.common.async.LogUtils$$Lambda$83/0x00000008011e9440@b9925ec)
+2019-05-06 12:45:32,339 783  [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   NEXT in(life.expert.common.async.LogUtils$$Lambda$83/0x00000008011e9440@42685643)
+2019-05-06 12:45:32,339 783  [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   NEXT in(life.expert.common.async.LogUtils$$Lambda$83/0x00000008011e9440@271c3725)
+2019-05-06 12:45:32,340 784  [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   NEXT in(life.expert.common.async.LogUtils$$Lambda$83/0x00000008011e9440@4da3a0d9)
+2019-05-06 12:45:32,340 784  [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   COMPLETE
+2019-05-06 12:45:39,308 7752 [main] INFO  life.expert.algo.research.base.App - END MESSAGE
+2019-05-06 12:48:47,158 385  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 12:48:47,382 609  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 12:48:47,501 728  [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   GENERATE out(a5) delay(1)
+2019-05-06 12:48:47,501 728  [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   GENERATE out(a8) delay(1)
+2019-05-06 12:48:47,501 728  [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   GENERATE out(a1) delay(1)
+2019-05-06 12:48:47,501 728  [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   GENERATE out(a4) delay(1)
+2019-05-06 12:48:47,501 728  [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   GENERATE out(a3) delay(1)
+2019-05-06 12:48:47,501 728  [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   GENERATE out(a6) delay(1)
+2019-05-06 12:48:47,501 728  [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   GENERATE out(a9) delay(1)
+2019-05-06 12:48:47,501 728  [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   GENERATE out(a2) delay(1)
+2019-05-06 12:48:47,501 728  [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   GENERATE out(a10) delay(1)
+2019-05-06 12:48:47,501 728  [elastic-8] INFO  life.expert.common.async.LogUtils - Thread[elastic-8,5,main]   GENERATE out(a7) delay(1)
+2019-05-06 12:48:48,507 1734 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a9)
+2019-05-06 12:48:48,522 1749 [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   NEXT in(a1)
+2019-05-06 12:48:48,522 1749 [elastic-3] ERROR life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   CONTINUEE in(java.lang.NullPointerException: The mapper returned a null value.) in(Failure(java.lang.IllegalArgumentException: delaySupplierWithError))
+2019-05-06 12:48:48,523 1750 [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   NEXT in(a3)
+2019-05-06 12:48:48,523 1750 [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   NEXT in(a4)
+2019-05-06 12:48:48,523 1750 [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   NEXT in(a5)
+2019-05-06 12:48:48,523 1750 [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   NEXT in(a6)
+2019-05-06 12:48:48,524 1751 [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   NEXT in(a7)
+2019-05-06 12:48:48,524 1751 [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   NEXT in(a8)
+2019-05-06 12:48:48,524 1751 [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   NEXT in(a10)
+2019-05-06 12:48:48,524 1751 [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   COMPLETE
+2019-05-06 12:48:54,485 7712 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 14:00:17,201 851  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 14:00:17,576 1226 [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 14:00:17,864 1514 [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   GENERATE out(a10) delay(1)
+2019-05-06 14:00:17,865 1515 [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   GENERATE out(a2) delay(1)
+2019-05-06 14:00:17,864 1514 [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   GENERATE out(a1) delay(1)
+2019-05-06 14:00:17,864 1514 [elastic-8] INFO  life.expert.common.async.LogUtils - Thread[elastic-8,5,main]   GENERATE out(a7) delay(1)
+2019-05-06 14:00:17,864 1514 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   GENERATE out(a8) delay(1)
+2019-05-06 14:00:17,864 1514 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   GENERATE out(a3) delay(1)
+2019-05-06 14:00:17,865 1515 [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   GENERATE out(a5) delay(1)
+2019-05-06 14:00:17,864 1514 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   GENERATE out(a9) delay(1)
+2019-05-06 14:00:17,865 1515 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   GENERATE out(a6) delay(1)
+2019-05-06 14:00:17,864 1514 [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   GENERATE out(a4) delay(1)
+2019-05-06 14:00:18,872 2522 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   NEXT in(a3)
+2019-05-06 14:00:18,882 2532 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a1)
+2019-05-06 14:00:18,882 2532 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a4)
+2019-05-06 14:00:18,875 2525 [elastic-3] ERROR life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   ERRR in({})
+java.lang.IllegalArgumentException: delaySupplierWithError
+	at life.expert.algo.research.base.App.lambda$delaySupplierWithError$4bc47f64$1(App.java:287)
+	at io.vavr.control.Try.of(Try.java:75)
+	at io.vavr.API.Try(API.java:917)
+	at life.expert.algo.research.base.App.lambda$main$1(App.java:213)
+	at reactor.core.publisher.MonoSupplier.call(MonoSupplier.java:85)
+	at reactor.core.publisher.FluxSubscribeOnCallable$CallableSubscribeOnSubscription.run(FluxSubscribeOnCallable.java:225)
+	at reactor.core.scheduler.ElasticScheduler$DirectScheduleTask.run(ElasticScheduler.java:291)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:50)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:27)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2019-05-06 14:00:18,883 2533 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a5)
+2019-05-06 14:00:18,883 2533 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a6)
+2019-05-06 14:00:18,883 2533 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a7)
+2019-05-06 14:00:18,883 2533 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a8)
+2019-05-06 14:00:18,883 2533 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a9)
+2019-05-06 14:00:18,884 2534 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a10)
+2019-05-06 14:00:18,887 2537 [elastic-3] ERROR life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   CONTINUEE in(java.lang.NullPointerException: The mapper returned a null value.) in(Failure(java.lang.IllegalArgumentException: delaySupplierWithError))
+2019-05-06 14:00:18,888 2538 [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   COMPLETE
+2019-05-06 14:00:24,845 8495 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 14:01:05,639 356  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 14:01:05,857 574  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 14:01:05,962 679  [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   GENERATE out(a10) delay(1)
+2019-05-06 14:01:05,962 679  [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   GENERATE out(a5) delay(1)
+2019-05-06 14:01:05,962 679  [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   GENERATE out(a3) delay(1)
+2019-05-06 14:01:05,962 679  [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   GENERATE out(a8) delay(1)
+2019-05-06 14:01:05,962 679  [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   GENERATE out(a2) delay(1)
+2019-05-06 14:01:05,962 679  [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   GENERATE out(a1) delay(1)
+2019-05-06 14:01:05,962 679  [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   GENERATE out(a9) delay(1)
+2019-05-06 14:01:05,962 679  [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   GENERATE out(a6) delay(1)
+2019-05-06 14:01:05,962 679  [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   GENERATE out(a4) delay(1)
+2019-05-06 14:01:05,962 679  [elastic-8] INFO  life.expert.common.async.LogUtils - Thread[elastic-8,5,main]   GENERATE out(a7) delay(1)
+2019-05-06 14:01:06,966 1683 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   NEXT in(a9)
+2019-05-06 14:01:06,967 1684 [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   NEXT in(a10)
+2019-05-06 14:01:06,972 1689 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a1)
+2019-05-06 14:01:06,973 1690 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a3)
+2019-05-06 14:01:06,973 1690 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a4)
+2019-05-06 14:01:06,969 1686 [elastic-3] ERROR life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   ERRR:a2 in({})
+java.lang.IllegalArgumentException: delaySupplierWithError
+	at life.expert.algo.research.base.App.lambda$delaySupplierWithError$4bc47f64$1(App.java:290)
+	at io.vavr.control.Try.of(Try.java:75)
+	at io.vavr.API.Try(API.java:917)
+	at life.expert.algo.research.base.App.lambda$main$1(App.java:209)
+	at reactor.core.publisher.MonoSupplier.call(MonoSupplier.java:85)
+	at reactor.core.publisher.FluxSubscribeOnCallable$CallableSubscribeOnSubscription.run(FluxSubscribeOnCallable.java:225)
+	at reactor.core.scheduler.ElasticScheduler$DirectScheduleTask.run(ElasticScheduler.java:291)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:50)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:27)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2019-05-06 14:01:06,973 1690 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a5)
+2019-05-06 14:01:06,974 1691 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a6)
+2019-05-06 14:01:06,974 1691 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a7)
+2019-05-06 14:01:06,974 1691 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a8)
+2019-05-06 14:01:06,979 1696 [elastic-3] ERROR life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   CONTINUEE in(java.lang.NullPointerException: The mapper returned a null value.) in(Failure(java.lang.IllegalArgumentException: delaySupplierWithError))
+2019-05-06 14:01:06,979 1696 [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   COMPLETE
+2019-05-06 14:01:12,951 7668 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 14:03:07,761 450  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 14:03:07,978 667  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 14:03:08,077 766  [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   GENERATE out(a9) delay(1)
+2019-05-06 14:03:08,076 765  [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   GENERATE out(a8) delay(1)
+2019-05-06 14:03:08,076 765  [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   GENERATE out(a5) delay(1)
+2019-05-06 14:03:08,077 766  [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   GENERATE out(a6) delay(1)
+2019-05-06 14:03:08,077 766  [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   GENERATE out(a3) delay(1)
+2019-05-06 14:03:08,077 766  [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   GENERATE out(a1) delay(1)
+2019-05-06 14:03:08,077 766  [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   GENERATE out(a10) delay(1)
+2019-05-06 14:03:08,077 766  [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   GENERATE out(a2) delay(1)
+2019-05-06 14:03:08,076 765  [elastic-8] INFO  life.expert.common.async.LogUtils - Thread[elastic-8,5,main]   GENERATE out(a7) delay(1)
+2019-05-06 14:03:08,076 765  [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   GENERATE out(a4) delay(1)
+2019-05-06 14:03:09,079 1768 [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   NEXT in(a5)
+2019-05-06 14:03:09,085 1774 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a3)
+2019-05-06 14:03:09,085 1774 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a4)
+2019-05-06 14:03:09,085 1774 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a6)
+2019-05-06 14:03:09,086 1775 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a7)
+2019-05-06 14:03:09,086 1775 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a8)
+2019-05-06 14:03:09,086 1775 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a9)
+2019-05-06 14:03:09,086 1775 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a10)
+2019-05-06 14:03:09,087 1776 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   NEXT in(a1)
+2019-05-06 14:03:09,083 1772 [elastic-3] ERROR life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   ERRR:a2 in({})
+java.lang.IllegalArgumentException: delaySupplierWithError
+	at life.expert.algo.research.base.App.lambda$delaySupplierWithError$4bc47f64$1(App.java:290)
+	at io.vavr.control.Try.of(Try.java:75)
+	at io.vavr.API.Try(API.java:917)
+	at life.expert.algo.research.base.App.lambda$main$1(App.java:209)
+	at reactor.core.publisher.MonoSupplier.call(MonoSupplier.java:85)
+	at reactor.core.publisher.FluxSubscribeOnCallable$CallableSubscribeOnSubscription.run(FluxSubscribeOnCallable.java:225)
+	at reactor.core.scheduler.ElasticScheduler$DirectScheduleTask.run(ElasticScheduler.java:291)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:50)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:27)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2019-05-06 14:03:09,091 1780 [elastic-3] ERROR life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   CONTINUEE in(java.lang.NullPointerException: The mapper returned a null value.) in(Failure(java.lang.IllegalArgumentException: delaySupplierWithError))
+2019-05-06 14:03:09,091 1780 [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   COMPLETE
+2019-05-06 14:03:15,071 7760 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 14:07:55,892 724  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 14:07:56,137 969  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 14:07:56,232 1064 [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   GENERATE out(a2) delay(1)
+2019-05-06 14:07:56,232 1064 [elastic-9] INFO  life.expert.common.async.LogUtils - Thread[elastic-9,5,main]   GENERATE out(a8) delay(1)
+2019-05-06 14:07:56,232 1064 [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   GENERATE out(a10) delay(1)
+2019-05-06 14:07:56,232 1064 [elastic-5] INFO  life.expert.common.async.LogUtils - Thread[elastic-5,5,main]   GENERATE out(a4) delay(1)
+2019-05-06 14:07:56,232 1064 [elastic-4] INFO  life.expert.common.async.LogUtils - Thread[elastic-4,5,main]   GENERATE out(a3) delay(1)
+2019-05-06 14:07:56,232 1064 [elastic-8] INFO  life.expert.common.async.LogUtils - Thread[elastic-8,5,main]   GENERATE out(a7) delay(1)
+2019-05-06 14:07:56,232 1064 [elastic-10] INFO  life.expert.common.async.LogUtils - Thread[elastic-10,5,main]   GENERATE out(a9) delay(1)
+2019-05-06 14:07:56,232 1064 [elastic-2] INFO  life.expert.common.async.LogUtils - Thread[elastic-2,5,main]   GENERATE out(a1) delay(1)
+2019-05-06 14:07:56,232 1064 [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   GENERATE out(a5) delay(1)
+2019-05-06 14:07:56,232 1064 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   GENERATE out(a6) delay(1)
+2019-05-06 14:07:57,239 2071 [elastic-7] INFO  life.expert.common.async.LogUtils - Thread[elastic-7,5,main]   NEXT in(a6)
+2019-05-06 14:07:57,241 2073 [elastic-6] INFO  life.expert.common.async.LogUtils - Thread[elastic-6,5,main]   NEXT in(a5)
+2019-05-06 14:07:57,246 2078 [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   NEXT in(a1)
+2019-05-06 14:07:57,247 2079 [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   NEXT in(a3)
+2019-05-06 14:07:57,247 2079 [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   NEXT in(a4)
+2019-05-06 14:07:57,247 2079 [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   NEXT in(a7)
+2019-05-06 14:07:57,248 2080 [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   NEXT in(a8)
+2019-05-06 14:07:57,248 2080 [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   NEXT in(a9)
+2019-05-06 14:07:57,243 2075 [elastic-3] ERROR life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   ERRR:a2 in({})
+java.lang.IllegalArgumentException: delaySupplierWithError
+	at life.expert.algo.research.base.App.lambda$delaySupplierWithError$4bc47f64$1(App.java:294)
+	at io.vavr.control.Try.of(Try.java:75)
+	at io.vavr.API.Try(API.java:917)
+	at life.expert.algo.research.base.App.lambda$main$1(App.java:209)
+	at reactor.core.publisher.MonoSupplier.call(MonoSupplier.java:85)
+	at reactor.core.publisher.FluxSubscribeOnCallable$CallableSubscribeOnSubscription.run(FluxSubscribeOnCallable.java:225)
+	at reactor.core.scheduler.ElasticScheduler$DirectScheduleTask.run(ElasticScheduler.java:291)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:50)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:27)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2019-05-06 14:07:57,248 2080 [elastic-11] INFO  life.expert.common.async.LogUtils - Thread[elastic-11,5,main]   NEXT in(a10)
+2019-05-06 14:07:57,252 2084 [elastic-3] ERROR life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   CONTINUEE in(java.lang.NullPointerException: The mapper returned a null value.) in(Failure(java.lang.IllegalArgumentException: delaySupplierWithError))
+2019-05-06 14:07:57,253 2085 [elastic-3] INFO  life.expert.common.async.LogUtils - Thread[elastic-3,5,main]   COMPLETE
+2019-05-06 14:08:03,229 8061 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 15:07:05,539 1460 [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 15:07:05,662 1583 [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(a)
+2019-05-06 15:07:05,713 1634 [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   meth1 in({})
+java.lang.RuntimeException:  cause 
+	at life.expert.algo.research.base.App.method1_(App.java:224)
+	at io.vavr.CheckedFunction1.lambda$null$959ed135$2(CheckedFunction1.java:126)
+	at io.vavr.control.Try.of(Try.java:75)
+	at io.vavr.CheckedFunction1.lambda$liftTry$f56c42c8$1(CheckedFunction1.java:126)
+	at java.base/java.util.Optional.map(Optional.java:265)
+	at life.expert.algo.research.base.App.method1(App.java:206)
+	at life.expert.algo.research.base.App.main(App.java:170)
+2019-05-06 15:07:12,748 8669 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 15:08:02,530 466  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 15:08:09,660 7596 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 15:08:23,434 814  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 15:08:30,602 7982 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 15:08:56,387 325  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 15:08:56,501 439  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(а)
+2019-05-06 15:09:03,540 7478 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 15:20:47,781 1054 [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 15:20:47,923 1196 [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(а)
+2019-05-06 15:21:12,343 721  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 15:21:12,468 846  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(а)
+2019-05-06 15:21:19,684 8062 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 15:28:41,341 375  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 15:28:41,459 493  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(а)
+2019-05-06 15:28:41,589 623  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 15:28:48,595 7629 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 15:30:05,896 606  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 15:30:06,012 722  [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(а)
+2019-05-06 15:30:06,156 866  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 15:30:13,160 7870 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 15:30:35,866 728  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 15:30:36,065 927  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 15:30:43,074 7936 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 15:31:31,100 764  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 15:31:31,321 985  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 15:31:31,375 1039 [main] WARN  life.expert.common.async.LogUtils - Thread[main,5,main]   App.method11(empty argument) in(java.util.NoSuchElementException: Source was empty) out(MonoNever)
+2019-05-06 15:31:38,385 8049 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 15:32:08,684 684  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 15:32:08,888 888  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 15:32:08,920 920  [main] WARN  life.expert.common.async.LogUtils - Thread[main,5,main]   App.method11(empty argument) in(java.util.NoSuchElementException: Source was empty) out(MonoNever)
+2019-05-06 15:32:15,927 7927 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 15:38:08,439 469  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 15:38:08,642 672  [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 15:38:08,676 706  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   NEXT in(v)
+2019-05-06 15:38:08,676 706  [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   COMPLETE
+2019-05-06 15:38:15,682 7712 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 15:38:56,211 1003 [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 15:38:56,432 1224 [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 15:38:56,469 1261 [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(v)
+2019-05-06 15:38:56,470 1262 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   NEXT in(v)
+2019-05-06 15:38:56,470 1262 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   COMPLETE
+2019-05-06 15:39:03,473 8265 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 15:51:19,225 1022 [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 15:51:19,456 1253 [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 15:51:19,593 1390 [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(vovan)
+2019-05-06 15:51:19,595 1392 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   NEXT in(vovan)
+2019-05-06 15:51:19,595 1392 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   COMPLETE
+2019-05-06 15:51:26,601 8398 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 15:53:15,296 1731 [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 15:53:15,622 2057 [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 15:53:15,835 2270 [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(vovan)
+2019-05-06 15:53:15,860 2295 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   NEXT in(otvet+vovan)
+2019-05-06 15:53:15,860 2295 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   COMPLETE
+2019-05-06 15:53:22,868 9303 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 15:53:44,683 1042 [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 15:53:44,952 1311 [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 15:53:45,040 1399 [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(vovan)
+2019-05-06 15:53:45,058 1417 [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   CONTINUEE in(java.lang.RuntimeException:  cause ) in(vovan)
+2019-05-06 15:53:45,060 1419 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   COMPLETE
+2019-05-06 15:53:52,067 8426 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 16:00:33,801 1890 [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 16:00:34,187 2276 [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 16:00:34,300 2389 [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(vovan)
+2019-05-06 16:00:34,338 2427 [main] ERROR life.expert.common.async.LogUtils - Thread[main,5,main]   CONTINUEE in(java.lang.RuntimeException:  cause ) in(vovan)
+2019-05-06 16:00:34,339 2428 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   COMPLETE
+2019-05-06 16:00:41,344 9433 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 16:02:58,894 996  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 16:02:59,216 1318 [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 16:02:59,608 1710 [main] DEBUG life.expert.common.async.LogUtils - Thread[main,5,main]   App.method1 in(vovan)
+2019-05-06 16:02:59,651 1753 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   NEXT in(otvet+vovan)
+2019-05-06 16:02:59,652 1754 [main] INFO  life.expert.common.async.LogUtils - Thread[main,5,main]   COMPLETE
+2019-05-06 16:03:06,673 8775 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
+2019-05-06 16:03:32,293 1764 [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-06 16:03:32,668 2139 [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+2019-05-06 16:03:33,250 2721 [main] WARN  life.expert.common.async.LogUtils - Thread[main,5,main]   App.method11(empty argument) in(java.util.NoSuchElementException: Source was empty) out(MonoNever)
+2019-05-06 16:03:40,261 9732 [main] INFO  life.expert.common.async.LogUtils - END MESSAGE
