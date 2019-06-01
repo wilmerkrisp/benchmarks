@@ -1,0 +1,172 @@
+[2019-03-28 16:20:26 INFO   ] Running... 
+2019-03-31 19:49:59,770 743  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-04-26 20:36:59,468 819  [main] INFO  life.expert.algo.research.base.App - Running...
+2019-05-05 19:55:56,171 859  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-05 19:55:56,283 971  [main] INFO  life.expert.common.async.LogUtils - Bye, bye...
+2019-05-30 14:16:54,641 421  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-30 14:16:54,751 531  [main] INFO  life.expert.common.async.LogUtils - Bye, bye...
+2019-05-30 14:22:55,852 316  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-30 14:22:55,960 424  [main] INFO  life.expert.common.async.LogUtils - Bye, bye...
+2019-05-30 14:23:30,295 622  [main] INFO  life.expert.common.async.LogUtils - Running...
+2019-05-30 14:23:30,402 729  [main] INFO  life.expert.common.async.LogUtils - Bye, bye...
+2019-05-30 21:33:20,924 396  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [3ebb7970-1640-4ae4-a93b-f861f67d302a port:51948, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-05-30 21:33:20,934 406  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-05-30 21:33:20,954 426  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:51948.
+2019-05-30 21:33:21,004 476  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 1.
+2019-05-30 21:33:21,008 480  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 1 started executing tests.
+2019-05-30 21:33:21,211 683  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-05-30 21:33:21,223 695  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class module-info
+2019-05-30 21:33:21,842 1314 [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 1 finished executing tests.
+2019-05-30 21:33:21,846 1318 [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 1.
+2019-05-30 21:38:47,425 334  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [77ab245d-48f9-4828-970d-18b6e8320ca1 port:52100, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-05-30 21:38:47,435 344  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-05-30 21:38:47,457 366  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:52100.
+2019-05-30 21:38:47,477 386  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 2.
+2019-05-30 21:38:47,478 387  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 2 started executing tests.
+2019-05-30 21:38:47,527 436  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-05-30 21:38:47,535 444  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class module-info
+2019-05-30 21:38:47,828 737  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 2 finished executing tests.
+2019-05-30 21:38:47,833 742  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 2.
+2019-05-30 21:39:02,278 348  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [875dbea4-74c2-4180-a5d2-6b2242cc283b port:52121, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-05-30 21:39:02,287 357  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-05-30 21:39:02,309 379  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:52121.
+2019-05-30 21:39:02,330 400  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 3.
+2019-05-30 21:39:02,332 402  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 3 started executing tests.
+2019-05-30 21:39:02,383 453  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-05-30 21:39:02,390 460  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class module-info
+2019-05-30 21:39:02,715 785  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 3 finished executing tests.
+2019-05-30 21:39:02,718 788  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 3.
+2019-05-30 21:39:48,509 344  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [997ab5eb-80d0-4e79-a6c8-6a0683c4e4cb port:52149, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-05-30 21:39:48,517 352  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-05-30 21:39:48,540 375  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:52149.
+2019-05-30 21:39:48,560 395  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 4.
+2019-05-30 21:39:48,562 397  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 4 started executing tests.
+2019-05-30 21:39:48,614 449  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-05-30 21:39:48,620 455  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class module-info
+2019-05-30 21:39:48,856 691  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 4 finished executing tests.
+2019-05-30 21:39:48,858 693  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 4.
+2019-05-30 21:40:34,075 542  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [aba552ee-5c58-4fd1-9af4-57585bfceb11 port:52175, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-05-30 21:40:34,085 552  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-05-30 21:40:34,112 579  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:52175.
+2019-05-30 21:40:34,144 611  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 5.
+2019-05-30 21:40:34,146 613  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 5 started executing tests.
+2019-05-30 21:40:34,260 727  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-05-30 21:40:34,320 787  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AlgoBechmark
+2019-05-30 21:40:34,338 805  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.ExperimentData
+2019-05-30 21:40:34,340 807  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class module-info
+2019-05-30 21:40:34,877 1344 [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 5 finished executing tests.
+2019-05-30 21:40:34,879 1346 [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 5.
+2019-05-30 21:44:02,822 2005 [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [3693a964-ce91-41ab-877b-a47a6bc2bbd9 port:52297, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-05-30 21:44:02,870 2053 [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-05-30 21:44:02,952 2135 [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:52297.
+2019-05-30 21:44:03,079 2262 [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 8.
+2019-05-30 21:44:03,093 2276 [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 8 started executing tests.
+2019-05-30 21:44:03,306 2489 [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-05-30 21:44:03,317 2500 [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AlgoBechmark
+2019-05-30 21:44:03,320 2503 [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.ExperimentData
+2019-05-30 21:44:04,664 3847 [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 8 finished executing tests.
+2019-05-30 21:44:04,668 3851 [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 8.
+2019-05-30 21:45:26,027 371  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [05c0ad77-474e-45ae-9b69-204fb5503663 port:52346, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-05-30 21:45:26,038 382  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-05-30 21:45:26,060 404  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:52346.
+2019-05-30 21:45:26,081 425  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 9.
+2019-05-30 21:45:26,082 426  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 9 started executing tests.
+2019-05-30 21:45:26,139 483  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-05-30 21:45:26,387 731  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 9 finished executing tests.
+2019-05-30 21:45:26,389 733  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 9.
+2019-05-30 21:57:12,664 314  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [7620ee53-a132-4c26-bc97-0d7aba41d773 port:52729, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-05-30 21:57:12,673 323  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-05-30 21:57:12,694 344  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:52729.
+2019-05-30 21:57:12,717 367  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 10.
+2019-05-30 21:57:12,724 374  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 10 started executing tests.
+2019-05-30 21:57:12,783 433  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-05-30 21:57:12,993 643  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 10 finished executing tests.
+2019-05-30 21:57:12,995 645  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 10.
+2019-05-30 22:38:04,179 444  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [2853b1d8-327f-4c74-ab55-3208718e9e6f port:54894, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-05-30 22:38:04,190 455  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-05-30 22:38:04,219 484  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:54894.
+2019-05-30 22:38:04,262 527  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 1.
+2019-05-30 22:38:04,265 530  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 1 started executing tests.
+2019-05-30 22:38:04,332 597  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-05-30 22:38:04,727 992  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 1 finished executing tests.
+2019-05-30 22:38:04,732 997  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 1.
+2019-05-30 22:50:21,738 490  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [d44f09d9-7546-4fb6-98ca-f7098bb90d8d port:55306, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-05-30 22:50:21,753 505  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-05-30 22:50:21,786 538  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:55306.
+2019-05-30 22:50:21,855 607  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 3.
+2019-05-30 22:50:21,860 612  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 3 started executing tests.
+2019-05-30 22:50:21,930 682  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-05-30 22:50:22,319 1071 [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 3 finished executing tests.
+2019-05-30 22:50:22,321 1073 [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 3.
+2019-05-30 23:24:34,939 327  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [e5ec7190-b15d-4c5d-976b-d6d45ac4986f port:56499, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-05-30 23:24:34,947 335  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-05-30 23:24:34,967 355  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:56499.
+2019-05-30 23:24:34,988 376  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 4.
+2019-05-30 23:24:34,990 378  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 4 started executing tests.
+2019-05-30 23:24:35,058 446  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-05-30 23:24:35,270 658  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 4 finished executing tests.
+2019-05-30 23:24:35,272 660  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 4.
+2019-05-30 23:27:50,364 947  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [fff78462-dadb-4671-bd6b-9023cdce8783 port:56602, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-05-30 23:27:50,377 960  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-05-30 23:27:50,402 985  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:56602.
+2019-05-30 23:27:50,443 1026 [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 7.
+2019-05-30 23:27:50,448 1031 [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 7 started executing tests.
+2019-05-30 23:27:50,575 1158 [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-05-30 23:27:51,254 1837 [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 7 finished executing tests.
+2019-05-30 23:27:51,257 1840 [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 7.
+2019-05-30 23:28:37,886 433  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [6865f6ee-331b-47cd-995d-1920aeb61ab0 port:56627, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-05-30 23:28:37,896 443  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-05-30 23:28:37,918 465  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:56627.
+2019-05-30 23:28:37,939 486  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 8.
+2019-05-30 23:28:37,941 488  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 8 started executing tests.
+2019-05-30 23:28:38,007 554  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-05-30 23:28:38,248 795  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 8 finished executing tests.
+2019-05-30 23:28:38,253 800  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 8.
+2019-05-31 14:28:05,498 333  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [ffdf538b-5f2b-42a4-adf5-e938f58b0756 port:56991, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-05-31 14:28:05,508 343  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-05-31 14:28:05,530 365  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:56991.
+2019-05-31 14:28:05,552 387  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 6.
+2019-05-31 14:28:05,554 389  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 6 started executing tests.
+2019-05-31 14:28:05,609 444  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-05-31 14:28:05,843 678  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 6 finished executing tests.
+2019-05-31 14:28:05,845 680  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 6.
+2019-05-31 14:37:26,753 340  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [51e6b3f1-0e44-4215-9e3a-909bc96637fd port:57229, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-05-31 14:37:26,764 351  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-05-31 14:37:26,803 390  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:57229.
+2019-05-31 14:37:26,830 417  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 7.
+2019-05-31 14:37:26,833 420  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 7 started executing tests.
+2019-05-31 14:37:26,891 478  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-05-31 14:37:27,150 737  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 7 finished executing tests.
+2019-05-31 14:37:27,152 739  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 7.
+2019-06-01 09:32:59,201 1051 [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [b0e3aac4-24d9-407a-a2ef-d720ab2b62a1 port:55674, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-06-01 09:32:59,230 1080 [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-06-01 09:32:59,283 1133 [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:55674.
+2019-06-01 09:32:59,336 1186 [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 1.
+2019-06-01 09:32:59,340 1190 [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 1 started executing tests.
+2019-06-01 09:32:59,551 1401 [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-06-01 09:33:00,394 2244 [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 1 finished executing tests.
+2019-06-01 09:33:00,397 2247 [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 1.
+2019-06-01 09:33:19,039 651  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [5f982dab-0961-4bf7-bf93-20a6f8762945 port:55686, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-06-01 09:33:19,055 667  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-06-01 09:33:19,096 708  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:55686.
+2019-06-01 09:33:19,133 745  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 2.
+2019-06-01 09:33:19,135 747  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 2 started executing tests.
+2019-06-01 09:33:19,223 835  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-06-01 09:33:19,655 1267 [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 2 finished executing tests.
+2019-06-01 09:33:19,661 1273 [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 2.
+2019-06-01 12:47:21,181 548  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [7ccceacc-1a1b-4c09-812b-dcf0d65dd97b port:65319, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-06-01 12:47:21,196 563  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-06-01 12:47:21,227 594  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:65319.
+2019-06-01 12:47:21,282 649  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 1.
+2019-06-01 12:47:21,286 653  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 1 started executing tests.
+2019-06-01 12:47:21,378 745  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-06-01 12:47:21,790 1157 [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 1 finished executing tests.
+2019-06-01 12:47:21,793 1160 [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 1.
+2019-06-01 12:58:06,128 629  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Attempting to connect to [9584f8d6-ab1a-457f-9756-91257de477fc port:49605, addresses:[/0:0:0:0:0:0:0:1, /127.0.0.1]].
+2019-06-01 12:58:06,143 644  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Trying to connect to address /0:0:0:0:0:0:0:1.
+2019-06-01 12:58:06,184 685  [main] DEBUG o.g.i.r.i.inet.TcpOutgoingConnector - Connected to address /0:0:0:0:0:0:0:1:49605.
+2019-06-01 12:58:06,223 724  [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Starting Gradle Test Executor 2.
+2019-06-01 12:58:06,226 727  [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 2 started executing tests.
+2019-06-01 12:58:06,311 812  [Test worker] DEBUG o.g.a.i.t.t.j.AbstractJUnitTestClassProcessor - Executing test class life.expert.algo.research.base.AppTest
+2019-06-01 12:58:06,754 1255 [main] INFO  o.g.a.i.t.testing.worker.TestWorker - Gradle Test Executor 2 finished executing tests.
+2019-06-01 12:58:06,756 1257 [main] DEBUG o.g.p.i.w.c.ActionExecutionWorker - Completed Gradle Test Executor 2.

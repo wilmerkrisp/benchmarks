@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ad1a527-49c3-4880-ad40-c97905dc5ae2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="graph" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="graph" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="graph" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="graph" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="graph" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="graph" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="distribution" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="graph" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="documentation" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="graph" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="graph" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="jmh" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="graph" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="jprofiler" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="graph" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="lombok" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="graph" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="graph" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="graph" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="graph" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.48507044">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/life/expert/algo/research/base/App.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="76" column="11" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="11" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="docComment;class#App#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/module-info.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="540">
+                  <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+                  <folding>
+                    <element signature="e#1057#1081#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/systems.manifold/manifold-util/2019.1.0-gw/16383275d3ef0e1e0cfbcb69a181eaa32513d0f1/manifold-util-2019.1.0-gw-sources.jar!/manifold/util/JreUtil.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/life/expert/algo/research/base/App.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1075">
+                  <caret line="111" column="24" selection-start-line="111" selection-start-column="24" selection-end-line="111" selection-end-column="24" />
+                  <folding>
+                    <element signature="docComment;class#App#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/build.gradle">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1282">
+                  <caret line="357" selection-start-line="357" selection-end-line="357" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                    <element signature="e#2085#2096#0" expanded="true" />
+                    <element signature="e#2418#2431#0" expanded="true" />
+                    <element signature="e#3314#3502#0" expanded="true" />
+                    <element signature="e#3754#3944#0" expanded="true" />
+                    <element signature="e#4298#4312#0" expanded="true" />
+                    <element signature="e#4386#4462#0" expanded="true" />
+                    <element signature="e#5484#5543#0" expanded="true" />
+                    <element signature="e#5882#6220#0" expanded="true" />
+                    <element signature="e#6637#6906#0" expanded="true" />
+                    <element signature="e#8065#8088#0" expanded="true" />
+                    <element signature="e#8151#8183#0" expanded="true" />
+                    <element signature="e#10918#10956#0" expanded="true" />
+                    <element signature="e#11302#11307#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/17.0.0/c4824e1e82f2783838485a3536db0b8f4d53aa95/annotations-17.0.0-sources.jar!/org/jetbrains/annotations/Nullable.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="16" column="34" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="34" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/life/expert/algo/research/base/AppTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="375">
+                  <caret line="27" selection-start-line="27" selection-end-line="27" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/jmh/java/life/expert/algo/research/base/AlgoBechmark.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="405">
+                  <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/jmh/java/life/expert/algo/research/base/ExperimentData.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="285">
+                  <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gradle.properties">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="225">
+                  <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/module-info.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="195">
+                  <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+                  <folding>
+                    <element signature="e#835#877#0" expanded="true" />
+                    <element signature="e#1019#1043#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lombo</find>
+      <find>lomb</find>
+      <find>jmh</find>
+      <find>main</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/life/expert/algo/research/base/AlgoTwo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/life/expert/algo/research/base/AlgoOne.java" />
+        <option value="$PROJECT_DIR$/src/test/java/life/expert/algo/research/base/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/jmh/java/life/expert/algo/research/base/ExperimentData.java" />
+        <option value="$PROJECT_DIR$/src/jmh/java/life/expert/algo/research/base/AlgoBechmark.java" />
+        <option value="$PROJECT_DIR$/src/jmh/java/module-info.java" />
+        <option value="$PROJECT_DIR$/src/test/java/module-info.java" />
+        <option value="$PROJECT_DIR$/gradle.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/life/expert/algo/research/base/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/module-info.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1005" />
+    <option name="y" value="-2137" />
+    <option name="width" value="3003" />
+    <option name="height" value="2128" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="experiment7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment7" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="experiment7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment7" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="experiment7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment7" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jmh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="experiment7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment7" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jmh" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="experiment7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment7" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jmh" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="experiment7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment7" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="experiment7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment7" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="experiment7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment7" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="experiment7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment7" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="experiment7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment7" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Resource Bundle 'messages'" type="a6c14932:ResourceBundleNode" />
+            </path>
+            <path>
+              <item name="experiment7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment7" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="experiment7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment7" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="experiment7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment7" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="experiment7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment7" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="testIntegr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="experiment7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.experiment7 [clean build]">
+    <configuration name="experiment7 [clean build]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="experiment7 [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="experiment7 [dependencyUpdates]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencyUpdates" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="experiment7 [distZip]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="distZip" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="experiment7 [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="experiment7 [run]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="-d" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="experiment7 [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="experiment7.graph" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="life.expert.algo.research.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="life.expert.algo.research.base" />
+      <option name="MAIN_CLASS_NAME" value="life.expert.algo.research.base.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.experiment7 [clean build]" />
+      <item itemvalue="Gradle.experiment7 [run]" />
+      <item itemvalue="Gradle.experiment7 [dependencyUpdates]" />
+      <item itemvalue="Gradle.experiment7 [test]" />
+      <item itemvalue="Gradle.experiment7 [jar]" />
+      <item itemvalue="Gradle.experiment7 [clean]" />
+      <item itemvalue="Gradle.experiment7 [distZip]" />
+      <item itemvalue="JUnit.AppTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.experiment7 [distZip]" />
+        <item itemvalue="Gradle.experiment7 [clean]" />
+        <item itemvalue="Gradle.experiment7 [jar]" />
+        <item itemvalue="Gradle.experiment7 [test]" />
+        <item itemvalue="JUnit.AppTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ad1a527-49c3-4880-ad40-c97905dc5ae2" name="Default Changelist" comment="" />
+      <created>1559227242866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559227242866</updated>
+      <workItem from="1559227245155" duration="789000" />
+      <workItem from="1559238830306" duration="5604000" />
+      <workItem from="1559287676389" duration="650000" />
+      <workItem from="1559288952658" duration="12000" />
+      <workItem from="1559290396144" duration="74000" />
+      <workItem from="1559301150488" duration="2611000" />
+      <workItem from="1559369927145" duration="2141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="experiment7_[test] - 2019.05.30 at 21h 42m 32s.xml">
+      <configuration name="experiment7 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="experiment7_[test] - 2019.05.30 at 21h 43m 31s.xml">
+      <configuration name="experiment7 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="experiment7_[test] - 2019.05.30 at 21h 44m 04s.xml">
+      <configuration name="experiment7 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="experiment7_[test] - 2019.05.30 at 22h 38m 14s.xml">
+      <configuration name="experiment7 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="experiment7_[test] - 2019.05.30 at 22h 59m 28s.xml">
+      <configuration name="experiment7 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="experiment7_[test] - 2019.05.30 at 23h 23m 15s.xml">
+      <configuration name="experiment7 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="experiment7_[test] - 2019.05.30 at 23h 24m 43s.xml">
+      <configuration name="experiment7 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="AppTest - 2019.05.30 at 23h 25m 08s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="experiment7_[test] - 2019.05.30 at 23h 27m 51s.xml">
+      <configuration name="experiment7 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="experiment7_[test] - 2019.05.30 at 23h 28m 56s.xml">
+      <configuration name="experiment7 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11881000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-832" y="-2134" width="3003" height="2128" extended-state="0" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info x="0" y="0" width="618" height="1826" id="Documentation" order="3" sideWeight="0.13052346" side_tool="true" visible="true" weight="0.16008106" />
+      <window_info id="Favorites" order="4" sideWeight="0.4651163" side_tool="true" weight="0.17436177" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.86947656" visible="true" weight="0.16008106" />
+      <window_info auto_hide="true" id="Ant Build" internal_type="SLIDING" order="7" sideWeight="0.49954587" type="SLIDING" weight="0.24932103" />
+      <window_info id="Database" order="8" sideWeight="0.8415147" weight="0.32971212" />
+      <window_info id="UML Diagrams" internal_type="SLIDING" order="9" type="SLIDING" />
+      <window_info id="Graphical Navigator" internal_type="SLIDING" order="10" type="SLIDING" weight="0.22532189" />
+      <window_info auto_hide="true" id="PlantUML" internal_type="SLIDING" order="11" type="SLIDING" weight="0.32971212" />
+      <window_info anchor="bottom" id="Build" order="0" sideWeight="0.32108107" weight="0.22234042" />
+      <window_info anchor="bottom" id="CheckStyle" order="1" sideWeight="0.497006" weight="0.329718" />
+      <window_info anchor="bottom" id="Inspection Results" order="2" sideWeight="0.49966735" weight="0.38177875" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="3" sideWeight="0.49642345" weight="0.32845744" />
+      <window_info anchor="bottom" id="Docker" order="4" sideWeight="0.4991675" weight="0.28960645" />
+      <window_info anchor="bottom" id="ReST Console" order="5" sideWeight="0.4711197" side_tool="true" weight="0.42732856" />
+      <window_info anchor="bottom" id="Messages" order="6" sideWeight="0.5730936" weight="0.37235117" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.643372" side_tool="true" weight="0.3519802" />
+      <window_info anchor="bottom" id="Tail" order="8" />
+      <window_info anchor="bottom" id="JProfiler" order="9" sideWeight="0.42364532" weight="0.3295342" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Regex Tester" order="11" sideWeight="0.49570817" weight="0.32845744" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="13" />
+      <window_info anchor="bottom" id="Find" order="14" sideWeight="0.49386305" weight="0.18530184" />
+      <window_info anchor="bottom" id="Debug" order="15" sideWeight="0.41320553" weight="0.3586626" />
+      <window_info anchor="bottom" id="Cvs" order="16" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="17" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="18" sideWeight="0.4971695" weight="0.2431887" />
+      <window_info anchor="bottom" id="Gradle View" order="19" sideWeight="0.49944383" weight="0.2356688" />
+      <window_info active="true" anchor="bottom" id="Run" order="20" sideWeight="0.73421144" side_tool="true" visible="true" weight="0.26852313" />
+      <window_info anchor="bottom" id="Terminal" order="21" sideWeight="0.26578858" visible="true" weight="0.26852313" />
+      <window_info anchor="bottom" id="REST Client" order="22" sideWeight="0.4997581" visible="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="Missing In Actions" order="23" sideWeight="0.4998335" weight="0.32996973" />
+      <window_info anchor="right" id="Gradle" order="0" sideWeight="0.69408566" side_tool="true" visible="true" weight="0.15163796" />
+      <window_info anchor="right" id="Maven" order="1" sideWeight="0.6332237" side_tool="true" weight="0.20444034" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" sideWeight="0.17987806" side_tool="true" visible="true" weight="0.08527974" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="9" sideWeight="0.30591434" visible="true" weight="0.15163796" />
+      <window_info anchor="right" id="RestServices" order="10" />
+      <window_info active="true" anchor="right" id="Swagger UI" order="11" sideWeight="0.80504906" visible="true" weight="0.30241328" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.4651163" side_tool="true" weight="0.17436177" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.60427135" visible="true" weight="0.25310308" />
+      <window_info auto_hide="true" id="Ant Build" internal_type="SLIDING" order="6" sideWeight="0.49954587" type="SLIDING" weight="0.24932103" />
+      <window_info id="Database" order="7" sideWeight="0.8415147" weight="0.32971212" />
+      <window_info id="UML Diagrams" internal_type="SLIDING" order="8" type="SLIDING" />
+      <window_info id="Graphical Navigator" internal_type="SLIDING" order="9" type="SLIDING" weight="0.22532189" />
+      <window_info auto_hide="true" id="PlantUML" internal_type="SLIDING" order="10" type="SLIDING" weight="0.32971212" />
+      <window_info anchor="bottom" id="Build" order="0" sideWeight="0.32108107" weight="0.22234042" />
+      <window_info anchor="bottom" id="CheckStyle" order="1" sideWeight="0.497006" weight="0.329718" />
+      <window_info anchor="bottom" id="Inspection Results" order="2" sideWeight="0.49966735" weight="0.38177875" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="3" sideWeight="0.49642345" weight="0.32845744" />
+      <window_info anchor="bottom" id="Docker" order="4" sideWeight="0.4991675" weight="0.28960645" />
+      <window_info anchor="bottom" id="ReST Console" order="5" sideWeight="0.4711197" side_tool="true" weight="0.42732856" />
+      <window_info anchor="bottom" id="Messages" order="6" sideWeight="0.5730936" weight="0.37235117" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.643372" side_tool="true" weight="0.3519802" />
+      <window_info anchor="bottom" id="Tail" order="8" />
+      <window_info anchor="bottom" id="JProfiler" order="9" sideWeight="0.42364532" weight="0.3295342" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Regex Tester" order="11" sideWeight="0.49570817" weight="0.32845744" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="13" />
+      <window_info anchor="bottom" id="Find" order="14" sideWeight="0.49386305" weight="0.18530184" />
+      <window_info anchor="bottom" id="Debug" order="15" sideWeight="0.41320553" weight="0.3586626" />
+      <window_info anchor="bottom" id="Cvs" order="16" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="17" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="18" sideWeight="0.4971695" weight="0.2431887" />
+      <window_info anchor="bottom" id="Gradle View" order="19" sideWeight="0.49944383" weight="0.2356688" />
+      <window_info anchor="bottom" id="Run" order="20" sideWeight="0.6789189" side_tool="true" visible="true" weight="0.16782178" />
+      <window_info anchor="bottom" id="Terminal" order="21" sideWeight="0.4875125" weight="0.18415742" />
+      <window_info anchor="bottom" id="REST Client" order="22" sideWeight="0.4997581" visible="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="Missing In Actions" order="23" sideWeight="0.4998335" weight="0.32996973" />
+      <window_info anchor="right" id="Gradle" order="0" sideWeight="0.7376562" side_tool="true" visible="true" weight="0.2433891" />
+      <window_info anchor="right" id="Maven" order="1" sideWeight="0.6332237" side_tool="true" weight="0.20444034" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" sideWeight="0.17987806" side_tool="true" visible="true" weight="0.08527974" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="9" sideWeight="0.26234385" visible="true" weight="0.2433891" />
+      <window_info anchor="right" id="RestServices" order="10" />
+      <window_info active="true" anchor="right" id="Swagger UI" order="11" sideWeight="0.80504906" visible="true" weight="0.30241328" />
+      <window_info anchor="right" x="0" y="0" width="618" height="1826" id="Documentation" order="12" sideWeight="0.73638344" side_tool="true" weight="0.15018316" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build/reports/tests/test/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jmh/java/module-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/module-info.test" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/life/expert/algo/research/base/AlgoTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/life/expert/algo/research/base/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jmh/java/life/expert/algo/research/base/AlgoBechmark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jmh/java/life/expert/algo/research/base/ExperimentData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/life/expert/algo/research/base/AlgoOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/17.0.0/c4824e1e82f2783838485a3536db0b8f4d53aa95/annotations-17.0.0-sources.jar!/org/jetbrains/annotations/Nullable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/systems.manifold/manifold-util/2019.1.0-gw/16383275d3ef0e1e0cfbcb69a181eaa32513d0f1/manifold-util-2019.1.0-gw-sources.jar!/manifold/util/concurrent/Cache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#29247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/systems.manifold/manifold-util/2019.1.0-gw/16383275d3ef0e1e0cfbcb69a181eaa32513d0f1/manifold-util-2019.1.0-gw-sources.jar!/manifold/util/ManExceptionUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/systems.manifold/manifold-util/2019.1.0-gw/16383275d3ef0e1e0cfbcb69a181eaa32513d0f1/manifold-util-2019.1.0-gw-sources.jar!/manifold/util/JreUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/life/expert/algo/research/base/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="111" column="24" selection-start-line="111" selection-start-column="24" selection-end-line="111" selection-end-column="24" />
+          <folding>
+            <element signature="docComment;class#App#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#835#877#0" expanded="true" />
+            <element signature="e#1019#1043#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1282">
+          <caret line="357" selection-start-line="357" selection-end-line="357" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#2085#2096#0" expanded="true" />
+            <element signature="e#2418#2431#0" expanded="true" />
+            <element signature="e#3314#3502#0" expanded="true" />
+            <element signature="e#3754#3944#0" expanded="true" />
+            <element signature="e#4298#4312#0" expanded="true" />
+            <element signature="e#4386#4462#0" expanded="true" />
+            <element signature="e#5484#5543#0" expanded="true" />
+            <element signature="e#5882#6220#0" expanded="true" />
+            <element signature="e#6637#6906#0" expanded="true" />
+            <element signature="e#8065#8088#0" expanded="true" />
+            <element signature="e#8151#8183#0" expanded="true" />
+            <element signature="e#10918#10956#0" expanded="true" />
+            <element signature="e#11302#11307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

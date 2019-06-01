@@ -1,0 +1,369 @@
+/*
+IDE->Settings->Build->Gradle:
+ - select: Gradle wrapper customization in build script
+ - delegate IDE build/run actions to gradle
+
+тестовый запуск скрипта
+	./gradlew -q -m
+
+для запуска всех тестов и проверок
+	./gradlew check
+
+заставляет выполнить таску повторно	 / force task
+    ./gradlew  --rerun-tasks tasks
+
+информация о структуре проекта
+./gradlew projects
+
+получить информацию о запущенных демонах
+./gradlew   --status
+
+посмотреть иерархию зависимостей
+./gradlew -q dependencies
+./gradlew -q dependencyInsight --dependency mylibname --configuration scm
+
+дебажим
+./gradlew -q -m -d
+
+для ускорения работы
+ -профилируй таску
+	./gradlew --profile tasks
+	./gradlew build --scan
+
+для повышения версии gradle
+	./gradlew wrapper --gradle-version=5.5-rc-1
+
+
+для отладки
+1) сначала запустить грейдл
+2) потом запустить remote debug on 5005
+
+#org.gradle.daemon=false
+#org.gradle.debug=true
+
+или
+ ./gradlew tasks -Dorg.gradle.debug=true --no-daemon
+
+
+jar libraries clear dependencies cache
+./gradlew cleanBuildCache
+
+проверим наличие новых версий
+./gradlew -q dependencyUpdates
+
+
+
+выключить выполнение тестов
+--exclude-task test
+
+for benchmark
+ jmh/jmh        - выполнить измерения, получить build/reports/jmh/results.json
+ other/jmhReport  - на основе json, в той же папке получить html
+
+
+*/
+
+
+
+plugins {
+    id 'java'
+    id 'base'
+    id 'java-library'
+    id 'application'
+    id 'idea'
+    ////id 'com.ewerk.gradle.plugins.auto-value' version '1.0.8'
+
+    id 'com.dorongold.task-tree' version '1.3.1' /* ./gradlew -q build taskTree */
+    id 'com.github.ben-manes.versions' version '0.21.0' /* ./gradlew -q dependencyUpdates */
+
+    id "me.champeau.gradle.jmh" version "0.4.8"
+    id "io.morethan.jmhreport" version "0.9.0"
+
+    id "com.jprofiler" version "11.0"
+
+    id "life.expert.archidoc" version "1.0.11"
+    id "com.simonharrer.graphviz" version "0.0.1"
+
+    id "io.spring.dependency-management" version "1.0.7.RELEASE"
+
+    id "io.freefair.lombok" version "3.6.4"
+
+
+    id "org.javamodularity.moduleplugin" version "1.5.0"
+   // id "com.dua3.gradle.jpms" version "0.8.3"
+
+}
+
+
+//wrapper {
+//    gradleVersion = 5.5
+//}
+
+
+////////////////////////////// for running app//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+//plugin application
+mainClassName = "$moduleName/$main_class_name"
+run.args = ["test"]
+
+
+//plugin base
+// дополнительные конфигурации api, implementation
+jar {
+    manifest {
+        attributes('Implementation-Title':project.name,
+                   'Implementation-Version':project.version,
+                   'Main-Class':mainClassName)
+    }
+}
+
+
+java {
+    //Defines which language version of Java your source files should be treated as.
+    sourceCompatibility = JavaVersion.VERSION_12
+    //Defines the minimum JVM version your code should run on, i.e. it determines the version of byte code the compiler generates.
+    targetCompatibility = JavaVersion.VERSION_12
+}
+
+
+////////////////////////////// spring framework //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+dependencyManagement {
+    imports {
+        mavenBom "io.projectreactor:reactor-bom:Californium-SR8"
+    }
+}
+
+////////////////////////////// lombok //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+//lombok.config[''] = ''
+lombok.config[ 'lombok.log.fieldName' ] = 'logger_'
+lombok.config[ 'lombok.toString.includeFieldNames' ] = 'false'
+lombok.config[ 'lombok.toString.callSuper' ] = 'call'
+lombok.config[ 'lombok.singular.useGuava' ] = 'true'
+
+
+////////////////////////////// manifold //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//tasks.withType(JavaCompile) {
+//    options.compilerArgs += '-Xplugin:Manifold strings exceptions'
+//    options.fork = true
+//}
+
+
+//////////////////////////////testing//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+test {
+    useJUnitPlatform()
+
+//    filter {
+//        exclude '**/module-info.class'
+//    }
+}
+
+configurations {
+    // Makes the intTestImplementation configuration extend from implementation,
+    // which means that all the declared dependencies of the production code
+    // also become dependencies of the integration tests
+    testIntegrImplementation.extendsFrom implementation
+    testIntegrRuntimeOnly.extendsFrom runtimeOnly
+}
+
+
+sourceSets {
+    testIntegr {
+        java.srcDir file('src/testIntegr/java')
+        resources.srcDir file('src/testIntegr/resources')
+        compileClasspath += sourceSets.main.output + configurations.testRuntimeClasspath
+        runtimeClasspath += output + compileClasspath
+    }
+}
+
+
+task testIntegration(type:Test) {
+    description = 'Runs the integration tests.'
+    group = 'verification'
+    testClassesDirs = sourceSets.testIntegr.output.classesDirs
+    classpath = sourceSets.testIntegr.runtimeClasspath
+    mustRunAfter test
+}
+
+check.dependsOn testIntegration
+
+//////////////////////////////benchmarking//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+jmh {
+    //iterations = 1 // Number of measurement iterations to do.
+    //warmupIterations = 1 // Number of warmup iterations to do.
+    jvmArgs = ['-Xms4G', '-Xmx4G']
+    timeUnit = 's' // Output time unit. Available time units are: [m, s, ms, us, ns].
+    resultFormat = 'JSON' // Result format type (one of CSV, JSON, NONE, SCSV, TEXT)
+    forceGC = true // Should JMH force GC between iterations?
+
+    /** необходимо раскоментировать нижеследующее и закоментировать все последующее
+     benchmarkMode = ['avgt'] // Benchmark mode. Available modes are: [Throughput/thrpt, AverageTime/avgt, SampleTime/sample, SingleShotTime/ss, All/all]
+     fork = 2 // How many times to forks a single benchmark. Use 0 to disable forking altogether
+     */
+    benchmarkMode = ['ss']
+    iterations = 1
+    warmupIterations = 0
+    fork = 0
+}
+
+jmhReport {
+    jmhResultPath = project.file('build/reports/jmh/results.json')
+    jmhReportOutput = project.file('build/reports/jmh')
+}
+
+
+//////////////////////////////profiling//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/**
+ - please config filenames and location here, used in saveProfile(),logProfile()
+ - also change getLogFile if log file names differently
+
+ runProfile  - run jprofiler and generate dump file
+ logProfile  - convert dump to csv
+ saveProfile - write csv to log file
+ */
+
+
+
+jprofiler {
+    installDir = file('/Applications/JProfiler.app/Contents/Resources/app')
+}
+
+
+tasks.create('runProfile', com.jprofiler.gradle.JavaProfile) {
+    main = main_class_name
+    classpath sourceSets.main.runtimeClasspath
+    offline = true
+    sessionId = 168
+    configFile = file('/Users/wilmer/.jprofiler10/config.xml')
+    group = "jprofiler"
+}
+
+ext.csvMethodStatistics = "$projectDir/build/tmp/MethodStatistics.csv"
+ext.csvRecordedObjects = "$projectDir/build/tmp/RecordedObjects.csv"
+tasks.create('saveProfile', com.jprofiler.gradle.Export) {
+    snapshotFile = file("$projectDir/build/tmp/jprofile.jps")
+    views {
+        view('MethodStatistics', csvMethodStatistics)
+        view('RecordedObjects', csvRecordedObjects, [viewfilters:'life'])
+    }
+}
+saveProfile.dependsOn runProfile
+
+
+//////////////////////////////architecture//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+archidoc {
+    //file "$buildDir/architecture/classdiagram.dot"
+    file "${project.projectDir}/src/main/graphviz/classdiagram.dot"
+    packages = ['life']
+    //packages = ['com.my']
+    //multiProject()
+
+    //verbose()
+    enableAllInfo()
+    //enableInterClassDependencies()
+    //enableExternalClasses()
+}
+
+//////////////////////////////dependencies//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/*
+implementation
+	extends compile
+	Implementation only dependencies.
+compileOnly
+	Compile time only dependencies, not used at runtime.
+runtimeOnly
+	Runtime only dependencies.
+testImplementation
+	extends testCompile, implementation
+	Implementation only dependencies for tests.
+testCompileOnly
+	Additional dependencies only for compiling tests, not used at runtime.
+testRuntimeOnly
+	extends runtimeOnly Runtime only dependencies for running tests. Used by task test.
+testRuntimeClasspath
+	extends testRuntimeOnly, testRuntime, testImplementation
+	Runtime classpath for running tests.
+*/
+
+
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+    maven { url 'https://repo.spring.io/milestone' }
+
+}
+
+dependencies {
+    implementation 'org.jetbrains:annotations:17.0.0'
+    /*
+    compileOnly 'org.jetbrains:annotations:17.0.0'
+    annotationProcessor 'com.google.auto.value:auto-value:1.6.5'
+    compileOnly 'com.google.auto.value:auto-value-annotations:1.6.5'
+
+    implementation 'com.google.flogger:flogger:0.4'
+    runtimeOnly 'com.google.flogger:flogger-system-backend:0.4'
+
+    implementation 'org.apache.commons:commons-configuration2:2.4'
+    implementation 'com.github.ben-manes.caffeine:caffeine:2.6.2'
+    */
+
+    //implementation 'life.expert:himalaya:1.0.19'
+
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.5.0-M1'
+    testImplementation 'org.junit.jupiter:junit-jupiter-params:5.5.0-M1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.5.0-M1'
+    testImplementation 'org.mockito:mockito-core:2.28.2'
+    testImplementation 'com.google.truth:truth:0.45'
+
+
+    implementation 'org.apache.commons:commons-lang3:3.9'
+    implementation 'org.apache.commons:commons-collections4:4.3'
+
+    implementation 'com.google.guava:guava:27.1-jre'
+   // implementation 'com.google.code.gson:gson:2.8.5'
+
+
+    implementation "io.projectreactor:reactor-core"
+    testImplementation "io.projectreactor:reactor-test"
+    implementation "io.projectreactor.addons:reactor-extra"
+
+    ////runtimeOnly "io.projectreactor.addons:reactor-logback"  //// для супербыстрого записи в лог
+    implementation 'ch.qos.logback:logback-classic:1.3.0-alpha4' //включает  implementation  'org.slf4j:slf4j-api:1.8.0-beta4'
+
+
+    implementation 'com.oath.cyclops:cyclops:10.3.0'
+    ////implementation 'com.oath.cyclops:cyclops-reactive-collections:10.3.0'
+    implementation 'io.vavr:vavr:0.10.0'
+    compileOnly 'io.vavr:vavr-match:0.10.0'
+    annotationProcessor 'io.vavr:vavr-match-processor:0.10.0'
+
+   // jmh 'org.openjdk.jmh:jmh-core:1.21'
+   // jmhAnnotationProcessor 'org.openjdk.jmh:jmh-generator-annprocess:1.21'
+   // jmhImplementation 'org.openjdk.jmh:jmh-core:1.21'
+    //testImplementation 'org.openjdk.jmh:jmh-core:1.21'
+   // implementation  'systems.manifold:manifold-ext:2019.1.0-gw'          //API
+    implementation  'systems.manifold:manifold-all:2019.1.0-gw'          //API
+//    annotationProcessor  'systems.manifold:manifold-all:2019.1.0-gw'
+//    testImplementation  'systems.manifold:manifold-all:22019.1.0-gw'
+//    testAnnotationProcessor  'systems.manifold:manifold-all:2019.1.0-gw'
+
+
+}
+
+
+//// if necessary force library
+//configurations.all {
+//    resolutionStrategy.force "com.google.auto.value:auto-value:1.6.3"
+//}
+
+//set autovalue autogenerated dir
+//autoValue {
+//    library = "com.google.auto.value:auto-value:1.6.3"
+//    autoValueSourcesDir = "$projectDir/src/main-generated/java"
+//}
+

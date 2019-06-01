@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-Xplugin:&quot;Manifold strings exceptions&quot;  -processorpath $USER_HOME$/.gradle/caches/modules-2/files-2.1/systems.manifold/manifold-all/2019.1.0-gw/db582e59d88a4e973ac280f1bc6e7d6f27d8902a/manifold-all-2019.1.0-gw.jar" />
+  </component>
+</project>
